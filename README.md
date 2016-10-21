@@ -1,4 +1,4 @@
-# Palestras apresentadas na pybr12
-
-Slides das palestras e oficinas ministradas na Python Brasil \[12\] em
-outubro/2016 em Florianópolis/SC.
+### [Python Brasil [12]](/pythonbrasil-12/README.md)
+- Florianópolis/SC
+- 13 a 18 de Outubro
+- [2016.pythonbrasil.org.br](http://2016.pythonbrasil.org.br)
