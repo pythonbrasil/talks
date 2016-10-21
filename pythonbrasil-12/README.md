@@ -23,7 +23,7 @@ outubro/2016 em Florianópolis/SC.
 ## Dia 16
 - **Keynote** - Naomi Ceder
 - **Hoje sou um professor FELIZ: Python no ensino de programação** - Fernando Masanori
-- **Aprendi Python, e agora?** - Júlio César Eiras
+- **[Aprendi Python, e agora?](aprendi_python_e_agora)** - Júlio César Eiras
 - **Descobrindo as menores distâncias entre diversas cidades com Python e GLPK** - Betania Campello
 - **Pyladies e Django Girls ajudando a tornar a comunidade Python mais diversa e mais inclusiva** - Pyladies Brasil
 - **Real Time Django usando Redis e Websockets** - Stamatios Stamou Jr
