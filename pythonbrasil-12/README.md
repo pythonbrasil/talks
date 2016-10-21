@@ -60,3 +60,8 @@ outubro/2016 em Florianópolis/SC.
 - **Docker Overkill: Coisas interessantes, mirabolantes, inseguras e desnecessárias para se fazer com Docker** - Felipe Arruda
 - **Django Performance Tips** - Gustavo Salles
 - **Coerência de cache de granularidade fina, usando django-signals** - Helber Maciel Guerra
+
+## Lightning Talks
+- **[Modelos de concorrência em Python](https://speakerdeck.com/drgarcia1986/modelos-de-concorrencia-em-python)** - Diego Garcia
+- **[Programe para uma interface, não para uma implementação](https://speakerdeck.com/drgarcia1986/programe-para-uma-interface-nao-para-uma-implementacao)** - Diego Garcia
+- **[SciPyLA and SciPySP](https://speakerdeck.com/leandroqm/lightning-talk-at-python-brasil-12)** - Leandro Quibem Magnabosco, Ivan Ogasawara and Patrícia Simões
