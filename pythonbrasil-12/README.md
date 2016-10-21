@@ -65,3 +65,4 @@ outubro/2016 em Florianópolis/SC.
 - **[Modelos de concorrência em Python](https://speakerdeck.com/drgarcia1986/modelos-de-concorrencia-em-python)** - Diego Garcia
 - **[Programe para uma interface, não para uma implementação](https://speakerdeck.com/drgarcia1986/programe-para-uma-interface-nao-para-uma-implementacao)** - Diego Garcia
 - **[SciPyLA and SciPySP](https://speakerdeck.com/leandroqm/lightning-talk-at-python-brasil-12)** - Leandro Quibem Magnabosco, Ivan Ogasawara and Patrícia Simões
+- **[restkiss: Make REST simple again](https://speakerdeck.com/elsaico/restkiss-make-rest-simple-again)** - Bruno Marques
