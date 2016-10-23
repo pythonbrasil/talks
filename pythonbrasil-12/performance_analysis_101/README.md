@@ -14,5 +14,5 @@ problema raiz mais rapido e como montar uma infraestrutura de metricas.
 
 # Conteudo
 
-- [slides])(https://speakerdeck.com/tarsisazevedo/performance-analysis-101).
+- [slides](https://speakerdeck.com/tarsisazevedo/performance-analysis-101).
 - [Video da Python Nordeste 2016](https://www.youtube.com/watch?v=mpb_grHeQp8).
