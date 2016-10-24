@@ -90,7 +90,7 @@ Escola de Dados
 - **Sua API é uma UI** - Renato Oliveira
 - **Docker Overkill: Coisas interessantes, mirabolantes, inseguras e desnecessárias para se fazer com Docker** - Felipe Arruda
 - **Django Performance Tips** - Gustavo Salles
-- **Coerência de cache de granularidade fina, usando django-signals** - Helber Maciel Guerra
+- **[Coerência de cache de granularidade fina, usando django-signals](coerencia_de_cache)** - Helber Maciel Guerra
 
 ## Lightning Talks
 
