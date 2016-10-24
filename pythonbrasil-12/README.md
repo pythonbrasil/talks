@@ -48,7 +48,7 @@ Escola de Dados
 - **A inevitável ruptura da comunidade** - Henrique Bastos
 - **Aprimorando as habilidades de debugging e troubleshooting** - Elias Dorneles
 - **Produzindo lindos relatórios com Pweave** - Melissa Mendonça
-- **Keynote** - Hanneli Tavante
+- **[Keynote - Rust Type System - Quick intro](http://slides.com/hannelitavante-hannelita/rust-type-system-pybr12#/)** - Hanneli Tavante
 
 ### Dia 16
 
