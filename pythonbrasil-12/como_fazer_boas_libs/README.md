@@ -1,6 +1,7 @@
 Como fazer boas libs?
 Palestrante - [@flaviojuvenal](https://twitter.com/flaviojuvenal)
 ========================
+
 - [slides](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#boas-libs).
 
 Não é fácil escrever uma biblioteca confortável de usar. É difícil agradar a todos. Mas também é difícil agradar até quem acha que a nossa biblioteca faz algo útil. Não é fácil nem mesmo quando fazemos algo reusável só para nós mesmos.
