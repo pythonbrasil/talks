@@ -28,7 +28,7 @@ outubro/2016 em Florianópolis/SC.
 - **Pyladies e Django Girls ajudando a tornar a comunidade Python mais diversa e mais inclusiva** - Pyladies Brasil
 - **Real Time Django usando Redis e Websockets** - Stamatios Stamou Jr
 - **AlgPedia - Uma enciclopédia colaborativa de algoritmos e implementações** - Thais Viana
-- **Performance Analysis 101** - Tarsis Azevedo
+- **[Performance Analysis 101](performance_analysis_101)** - Tarsis Azevedo
 - **PyRobô: Automatização com Python** - Barbara Moraes Vicente
 - **NES Hacks** - Guto Maia
 - **Fishbowl: Diversidade** - Luciano Ramalho + Comunidade
