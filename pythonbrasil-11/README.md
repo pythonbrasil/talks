@@ -1,7 +1,6 @@
 # Palestras apresentadas na pybr11
 
-Slides das palestras e oficinas ministradas na Python Brasil \[11\] em
-novembro/2015 em São Jose dos Campos/SP.
+Slides das palestras e oficinas ministradas na Python Brasil \[11\] no mês de novembro/2015 em São Jose dos Campos/SP.
 
 ## Dia 09
 - **Keynote: Python Não Usual: Pilotando um Navio da Petrobras** - Rafael Gonçalves
