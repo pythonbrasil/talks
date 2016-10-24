@@ -1,9 +1,40 @@
-# Palestras apresentadas na pybr12
+# Atividades ministradas na [Python Brasil [12]](http://2016.pythonbrasil.org.br)
 
-Slides das palestras e oficinas ministradas na Python Brasil \[12\] em
+Slides e material das palestras e tutoriais ministradas na Python Brasil \[12\] em
 outubro/2016 em Florianópolis/SC.
 
-## Dia 15
+## Tutoriais 
+
+### Dia 13
+
+- **Arquitetura, Especificação e Implementação de APIs REST** - Felipe Rodrigues
+- **Curso Básico de Python** - PyLadies (SP)
+- **Desenvolvimento de Web Scrapers com Scrapy** - Valdir Stumm Junior
+- **[Elm: chega de dor de cabeça com o frontend](http://cuducos.me/2016/09/17/porque-elm.html)** - Eduardo Cuducos
+- **Hackeando Dados Públicos com Python** - Fernando Masanori
+- **Introdução: Apache Cassandra** - Hanneli Tavante
+- **Lógica de programação em Python** - 
+- **Odoo - Open Source ERP - Como instalar e desenvolver aplicações empresariais** - Luis Felipe Miléo
+- **Python Orientado a Objetos** - Luiz Menezes
+- **Unsupervised Learning with Python** - Breandan Considine
+- **Wolfcrypt: embalando segredos com Python** - Moisés Guimarães
+Escola de Dados
+
+### Dia 14
+
+- **Django Girls** - Django Girls Floripa
+- **FlapPyLadies: Crie seu primeiro jogo em Python!** - Jessica Dias
+- **Machine Learning para Hackers** - Irio Musskopf
+- **pyspark e computação distribuida** - Robson Luis
+- **Qual é a desse tal de Kanban, e como ele pode te ajudar a ser ágil de verdade** - Rodrigo Vieira
+- **Realização de um Coding Dojo no formato Randori** - PyLadies São Carlos
+- **rows: extraindo, normalizando e salvando dados tabulares** - Álvaro Justen
+- **Tutorial de Git** - Débora Correia
+
+## Palestras
+
+### Dia 15
+
 - **Keynote** - Sérgio Oliveira Campos
 - **O que é esse tal de REST** - Filipe Ximenes
 - **Big data e Python como cidadão de primeira classe para sistemas distribuídos** - Victor Poluceno
@@ -19,8 +50,8 @@ outubro/2016 em Florianópolis/SC.
 - **Produzindo lindos relatórios com Pweave** - Melissa Mendonça
 - **Keynote** - Hanneli Tavante
 
+### Dia 16
 
-## Dia 16
 - **Keynote** - Naomi Ceder
 - **Hoje sou um professor FELIZ: Python no ensino de programação** - Fernando Masanori
 - **[Aprendi Python, e agora?](aprendi_python_e_agora)** - Júlio César Eiras
@@ -39,8 +70,8 @@ outubro/2016 em Florianópolis/SC.
 - **500 Dias de Open Source** - Raphael Amorim
 - **Keynote** - Sam Agnew
 
+### Dia 17
 
-## Dia 17
 - **Keynote** - Russell Keith-Magee
 - **Python Assíncrono: tudo ao mesmo tempo agora** - Luciano Ramalho
 - **1 ano trabalhando como Dev Django depois de 5 anos como Dev Java** - Kátia Yoshime Nakamura
@@ -62,6 +93,7 @@ outubro/2016 em Florianópolis/SC.
 - **Coerência de cache de granularidade fina, usando django-signals** - Helber Maciel Guerra
 
 ## Lightning Talks
+
 - **[Modelos de concorrência em Python](https://speakerdeck.com/drgarcia1986/modelos-de-concorrencia-em-python)** - Diego Garcia
 - **[Programe para uma interface, não para uma implementação](https://speakerdeck.com/drgarcia1986/programe-para-uma-interface-nao-para-uma-implementacao)** - Diego Garcia
 - **[SciPyLA and SciPySP](https://speakerdeck.com/leandroqm/lightning-talk-at-python-brasil-12)** - Leandro Quibem Magnabosco, Ivan Ogasawara and Patrícia Simões
