@@ -1,6 +1,6 @@
 # Palestras apresentadas na pybr12
 
-Slides das palestras e oficinas ministradas na Python Brasil \[12\] em
+Slides das palestras e oficinas ministradas na Python Brasil \[12\] no mês de
 outubro/2016 em Florianópolis/SC.
 
 ## Dia 15
