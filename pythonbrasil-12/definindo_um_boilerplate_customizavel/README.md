@@ -1,4 +1,5 @@
 Definindo um Boilerplate Customizável usando Django, React e Bootstrap
+Palestrante - Laís Varejão
 ========================
 
 Tanto para desenvolvedores iniciantes como para os mais experientes, configurar o ambiente inicial de um projeto pode consumir bastante tempo. Uma abordagem comum para solucionar esse problema é a utilização de boilerplates. Essa abordagem não só reduz o tempo inicial, como garante uma padronização dos projetos. A maioria das soluções disponíveis, entretanto, cobrem somente uma parte do problema - frontend ou backend - e integrações são sempre necessárias. Então, por que não definir o seu próprio boilerplate fullstack?
