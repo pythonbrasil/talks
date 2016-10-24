@@ -3,7 +3,7 @@
 Slides e material das palestras e tutoriais ministradas na Python Brasil \[12\] em
 outubro/2016 em Florianópolis/SC.
 
-## Tutoriais 
+## Tutoriais
 
 ### Dia 13
 
@@ -13,7 +13,7 @@ outubro/2016 em Florianópolis/SC.
 - **[Elm: chega de dor de cabeça com o frontend](http://cuducos.me/2016/09/17/porque-elm.html)** - Eduardo Cuducos
 - **Hackeando Dados Públicos com Python** - Fernando Masanori
 - **Introdução: Apache Cassandra** - Hanneli Tavante
-- **Lógica de programação em Python** - 
+- **Lógica de programação em Python** -
 - **Odoo - Open Source ERP - Como instalar e desenvolver aplicações empresariais** - Luis Felipe Miléo
 - **Python Orientado a Objetos** - Luiz Menezes
 - **Unsupervised Learning with Python** - Breandan Considine
