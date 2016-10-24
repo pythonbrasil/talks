@@ -67,7 +67,7 @@ Escola de Dados
 - **Big data disruptiva com Python** - Robson Luis Monteiro
 - **Graph Databases: Discutindo o Relacionamento dos seus Dados com Python** - Nicolle Cysneiros
 - **Estrutura de dados e collections em Python** - André Ericson
-- **500 Dias de Open Source** - Raphael Amorim
+- **[500 Dias de Open Source](500_dias_de_open_source)** - Raphael Amorim
 - **Keynote** - Sam Agnew
 
 ### Dia 17
