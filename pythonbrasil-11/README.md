@@ -7,7 +7,7 @@ Slides das palestras e oficinas ministradas na Python Brasil \[11\] no mês de n
 - **Experiência no Ensino de Programação com Python** - Givanaldo Rocha de Souza
 - **Matando um Monolítico Django: de Pluggable Apps aos Microservices** - Bernardo Fontes
 - **Computação Científica com Python** - Alexandre Siqueira
-- **Tkinter para embarcados** - Pedro \"Robin\" Henrique Cruz -
+- **Tkinter para embarcados** - Pedro "Robin" Henrique Cruz
 - **Anubis - Python na documentação da Câmara Municipal de São Paulo** - Ugo de Lima Pozo e Fernando Gasparotto
 - **Metaprogramação em Python: metaclass e decorators** - Felipe Volpone
 - **PySpark - Produtividade e poder de processamento** - Felipe Cruz
