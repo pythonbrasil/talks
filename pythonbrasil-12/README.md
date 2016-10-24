@@ -36,14 +36,14 @@ Escola de Dados
 ### Dia 15
 
 - **Keynote** - Sérgio Oliveira Campos
-- **O que é esse tal de REST** - Filipe Ximenes
+- **[O que é esse tal de REST](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#rest)** - Filipe Ximenes
 - **Big data e Python como cidadão de primeira classe para sistemas distribuídos** - Victor Poluceno
 - **É Pythônico, mas... é macarrônico?** - Marcio Marchini
 - **Como usei o Python para ajudar animais abandonados** - Annanda Sousa
 - **Mock Away! Uma análise de a escrita de testes de unidade e mocks para** - Andre Macdowell
 - **Servidores de jogos em Python** - Cleyton Pedroza
 - **Desenvolvendo soluções de IoT usando Python com as placas da Intel** - Juliana Karoline
-- **Como fazer boas libs? O que torna uma biblioteca fácil de usar** - Flávio Junior
+- **[Como fazer boas libs? O que torna uma biblioteca fácil de usar](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#boas-libs)** - Flávio Junior
 - **Programação além do código: comunidade e mulheres na tecnologia** - Leticia Portella
 - **A inevitável ruptura da comunidade** - Henrique Bastos
 - **Aprimorando as habilidades de debugging e troubleshooting** - Elias Dorneles
@@ -66,7 +66,7 @@ Escola de Dados
 - **Python para jornalistas** - Álvaro Justen e Natália Mazotte
 - **Big data disruptiva com Python** - Robson Luis Monteiro
 - **Graph Databases: Discutindo o Relacionamento dos seus Dados com Python** - Nicolle Cysneiros
-- **Estrutura de dados e collections em Python** - André Ericson
+- **[Estrutura de dados e collections em Python](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#estrutura-de-dados)** - André Ericson
 - **500 Dias de Open Source** - Raphael Amorim
 - **Keynote** - Sam Agnew
 
@@ -83,7 +83,7 @@ Escola de Dados
 - **Search Engines com Python e Elasticsearch** - Patty Vader
 - **Matemágica Discreta com Python** - Lidy Monteiro
 - **Porquê Mr. Robot usa Python?** - Nelson Frugeri
-- **Definindo um Boilerplate Customizável usando Django, React e Bootstrap** - Lais Varejão
+- **[Definindo um Boilerplate Customizável usando Django, React e Bootstrap](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#boilerplate)** - Lais Varejão
 - **RobotFramework: Testes de aceitação full-stack e controle remoto que fala sua lingua** - Leonardo Rochael
 - **Construindo uma aplicação web segura** - Roselma Mendes
 - **Emotional Intelligence as the key of Professional Success** - Julian Farrapeira
