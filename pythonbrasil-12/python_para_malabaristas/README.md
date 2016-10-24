@@ -10,5 +10,7 @@ OpenCV é uma biblioteca muito poderosa e sua interface com python é muito simp
 
 Otávio vai falar sobre as dificuldades que um iniciante enfrenta, sobre a instalação da biblioteca OpenCV, os principais métodos e, se alguém perguntar, dará dicas para você se iniciar no malabarismo.
 
-Convite: https://www.youtube.com/watch?v=WmLoj2qBGe4
+Convite: 
+
+[![Malabarismo.py](http://img.youtube.com/vi/WmLoj2qBGe4/0.jpg)](http://www.youtube.com/watch?v=WmLoj2qBGe4)
 
