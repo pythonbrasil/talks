@@ -39,7 +39,7 @@ Slides das palestras e oficinas ministradas na Python Brasil \[11\] no mês de n
 - **Escale código, não servidores!** - Ervilis Viana
 - **Geodjango full stack: do mapa ao banco** - Bruno Martin
 - **Stream processing com Python e Apache Storm** - Victor Poluceno
-- **Ferramentas de análise de código para Python** - Guilherme Vierno
+- **[Ferramentas de análise de código para Python](http://pt.slideshare.net/GuilhermeVierno/anlise-esttica-de-cdigo-python)** - Guilherme Vierno
 - **Python Guerrilha - levando alegria para ambientes burocráticos** - Caio Carrara
 - **Asynchronous working with Python/Django** - Martin Alderete
 - **Criação de Data Warehouse em Banco de Dados NoSQL com Cassandra, Spark e Python** - Leandro Mendes Ferreira
