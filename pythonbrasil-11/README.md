@@ -43,7 +43,7 @@ Slides das palestras e oficinas ministradas na Python Brasil \[11\] no mês de n
 - **Python Guerrilha - levando alegria para ambientes burocráticos** - Caio Carrara
 - **Asynchronous working with Python/Django** - Martin Alderete
 - **Criação de Data Warehouse em Banco de Dados NoSQL com Cassandra, Spark e Python** - Leandro Mendes Ferreira
-- **Games com Python** - Julio Melanda
+- **[Games com Python](games_com_python)** - Julio Melanda
 - **Keynote: Topics of Interest** - David Beasley
 - **Keynote: APyB - Associação Python Brasil** - Carlos Leite
 
