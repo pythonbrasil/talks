@@ -31,7 +31,7 @@ Slides das palestras e oficinas ministradas na Python Brasil \[11\] no mês de n
 - **Ahh, meus 20 e poucos! Conselhos de arquitetura e qualidade que eu gostaria de ter ouvido 10 anos atrás.** - Tony Lampada
 - **Usando Tapioca para acessar APIs web** - Filipe Ximenes
 - **Bioinformática com Biopython** - Marcos Castro
-- **Testes Pythonicos com Py.test** - Renato Oliveira
+- **[Testes Pythonicos com Py.test](https://speakerdeck.com/renatooliveira/testes-pythonicos-com-py-dot-test)** - Renato Oliveira
 - **Desligue-se! 90 dias desconectado** - Willian Ribeiro
 - **Web Async com Python3.4 e asyncio** - Diego Garcia
 - **Python for Data Science** - Gabriel Moreira
