@@ -46,7 +46,7 @@ Escola de Dados
 - **[Como fazer boas libs? O que torna uma biblioteca fácil de usar](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#boas-libs)** - Flávio Junior
 - **Programação além do código: comunidade e mulheres na tecnologia** - Leticia Portella
 - **A inevitável ruptura da comunidade** - Henrique Bastos
-- **Aprimorando as habilidades de debugging e troubleshooting** - Elias Dorneles
+- **[Aprimorando as habilidades de debugging e troubleshooting](https://speakerdeck.com/eliasdorneles/aprimorando-as-habilidades-de-debugging-e-troubleshooting)** - Elias Dorneles
 - **Produzindo lindos relatórios com Pweave** - Melissa Mendonça
 - **[Keynote - Rust Type System - Quick intro](http://slides.com/hannelitavante-hannelita/rust-type-system-pybr12#/)** - Hanneli Tavante
 
