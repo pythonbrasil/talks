@@ -75,11 +75,11 @@ Escola de Dados
 - **Keynote** - Russell Keith-Magee
 - **Python Assíncrono: tudo ao mesmo tempo agora** - Luciano Ramalho
 - **1 ano trabalhando como Dev Django depois de 5 anos como Dev Java** - Kátia Yoshime Nakamura
-- **APIs escalaveis, simples e com boa documentação usando Flask e SwaggerUI** - Bruno Rocha
+- **[APIs escalaveis, simples e com boa documentação usando Flask e SwaggerUI](api_front_end_com_flask_e_swagger)** - Bruno Rocha
 - **[Python para malabaristas - uma introdução ao OpenCV](python_para_malabaristas)** - Otavio Carneiro
 - **Como desenvolver e manter aplicações em ambiente hostil** - Júlio César
 - **Treinando Modelos Ensemble com Scikit-Learn** - Andressa Sivolella
-- **Seja contratado! - Dicas para se preparar para um emprego remoto** - Elyézer Rezende e Bruno Rocha
+- **[Seja contratado! - Dicas para se preparar para um emprego remoto](trabalho_remoto)** - Elyézer Rezende e Bruno Rocha
 - **Search Engines com Python e Elasticsearch** - Patty Vader
 - **[Matemágica Discreta com Python](https://speakerdeck.com/lidymonteiro/python-brasil-12-matemagica-discreta-com-python)** - Lidy Monteiro
 - **Porquê Mr. Robot usa Python?** - Nelson Frugeri
