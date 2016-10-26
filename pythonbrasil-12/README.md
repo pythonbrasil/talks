@@ -73,7 +73,7 @@ Escola de Dados
 ### Dia 17
 
 - **Keynote** - Russell Keith-Magee
-- **Python Assíncrono: tudo ao mesmo tempo agora** - Luciano Ramalho
+- **[Python Assíncrono: tudo ao mesmo tempo agora](tudo_ao_mesmo_tempo_python_assincrono)** - Luciano Ramalho
 - **1 ano trabalhando como Dev Django depois de 5 anos como Dev Java** - Kátia Yoshime Nakamura
 - **APIs escalaveis, simples e com boa documentação usando Flask e SwaggerUI** - Bruno Rocha
 - **[Python para malabaristas - uma introdução ao OpenCV](python_para_malabaristas)** - Otavio Carneiro
