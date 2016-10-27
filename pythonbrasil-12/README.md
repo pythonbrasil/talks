@@ -7,7 +7,7 @@ outubro/2016 em Florianópolis/SC.
 
 ### Dia 13
 
-- **Arquitetura, Especificação e Implementação de APIs REST** - Felipe Rodrigues
+- [**Arquitetura, Especificação e Implementação de APIs REST**](arquitetura_de_APIs_REST) - [Felipe Rodrigues](http://felipevr.com)
 - **Curso Básico de Python** - PyLadies (SP)
 - **Desenvolvimento de Web Scrapers com Scrapy** - Valdir Stumm Junior
 - **[Elm: chega de dor de cabeça com o frontend](http://cuducos.me/2016/09/17/porque-elm.html)** - Eduardo Cuducos
