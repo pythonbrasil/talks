@@ -12,6 +12,4 @@ Notebook: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/f
 
 ---
 ## Descrição
-O propósito da aula foi oferecer uma ampla abordagem à arquitetura REST e demais tópicos teóricos relacionados como o protocolo HTTP. O foco foi dado a esses assuntos, em oposição a tópicos mais práticos como implementação e deployment.
-
-No total, em um workshop de 8h, pouco mais da metade da agenda foi abordada por completo. Vou continuar adicionando conteúdos ao repositório acima e estou a disposição para ministrar esse conteúdo em outros eventos :D
+O propósito da aula foi oferecer uma ampla abordagem à arquitetura REST e demais tópicos teóricos relacionados como o protocolo HTTP. No total, em um workshop de 8h, pouco mais da metade da agenda foi abordada por completo. Vou continuar adicionando conteúdos ao repositório acima e estou a disposição para ministrar esse conteúdo em outros eventos :D
