@@ -1,0 +1,9 @@
+firefox:
+  build: .
+  command: firefox
+  environment:
+    - DISPLAY # pega a env var da maquina local
+  volumes:
+    - ./:/data
+    - /tmp/.X11-unix:/tmp/.X11-unix:ro
+    - $XAUTHORITY:/root/.Xauthority
