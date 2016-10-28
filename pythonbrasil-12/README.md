@@ -35,7 +35,7 @@ Escola de Dados
 
 ### Dia 15
 
-- **Keynote** - Sérgio Oliveira Campos
+- **[Keynote - Programação Dinâmica](http://www.slideshare.net/seocam/python-brasil-12-overlapping-subproblems)** - Sérgio Oliveira Campos
 - **[O que é esse tal de REST](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#rest)** - Filipe Ximenes
 - **Big data e Python como cidadão de primeira classe para sistemas distribuídos** - Victor Poluceno
 - **É Pythônico, mas... é macarrônico?** - Marcio Marchini
