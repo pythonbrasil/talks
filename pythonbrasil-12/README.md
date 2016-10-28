@@ -89,7 +89,7 @@ Escola de Dados
 - **Emotional Intelligence as the key of Professional Success** - Julian Farrapeira
 - **[Sua API é uma UI](sua_api_e_uma_ui)** - Renato Oliveira
 - **[Docker Overkill: Coisas interessantes, mirabolantes, inseguras e desnecessárias para se fazer com Docker](docker_overkill)** - Felipe Arruda
-- **Django Performance Tips** - Gustavo Salles
+- **[Django Performance Tips](django_performance_tips)** - Gustavo Carvalho
 - **[Coerência de cache de granularidade fina, usando django-signals](coerencia_de_cache)** - Helber Maciel Guerra
 
 ## Lightning Talks
