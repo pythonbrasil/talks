@@ -55,7 +55,7 @@ Escola de Dados
 - **[Keynote - Obstáculos à Inclusão, Por que só diversidade não é suficiente](https://docs.google.com/presentation/d/1L4nqmPQl8NEoh3LnKXN-8qQ1vHfcQgfLB9xKqB4KM38/edit#slide=id.p)** - Naomi Ceder
 - **Hoje sou um professor FELIZ: Python no ensino de programação** - Fernando Masanori
 - **[Aprendi Python, e agora?](aprendi_python_e_agora)** - Júlio César Eiras
-- **Descobrindo as menores distâncias entre diversas cidades com Python e GLPK** - Betania Campello
+- **[Descobrindo as menores distâncias entre diversas cidades com Python e GLPK](descobrindo_as_menores_distancias_entre_diversas_cidades_com_python)** - Betania Campello
 - **[Pyladies e Django Girls ajudando a tornar a comunidade Python mais diversa e mais inclusiva](pyladies_e_django_girls)** - Pyladies Brasil
 - **Real Time Django usando Redis e Websockets** - Stamatios Stamou Jr
 - **AlgPedia - Uma enciclopédia colaborativa de algoritmos e implementações** - Thais Viana
