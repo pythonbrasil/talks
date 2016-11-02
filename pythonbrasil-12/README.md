@@ -80,7 +80,7 @@ Escola de Dados
 - **Como desenvolver e manter aplicações em ambiente hostil** - Júlio César
 - **Treinando Modelos Ensemble com Scikit-Learn** - Andressa Sivolella
 - **[Seja contratado! - Dicas para se preparar para um emprego remoto](trabalho_remoto)** - Elyézer Rezende e Bruno Rocha
-- **Search Engines com Python e Elasticsearch** - Patty Vader
+- **[Search Engines com Python e Elasticsearch](search_engines_com_python_e_elasticsearch)** - Patty Vader
 - **[Matemágica Discreta com Python](https://speakerdeck.com/lidymonteiro/python-brasil-12-matemagica-discreta-com-python)** - Lidy Monteiro
 - **Porquê Mr. Robot usa Python?** - Nelson Frugeri
 - **[Definindo um Boilerplate Customizável usando Django, React e Bootstrap](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#boilerplate)** - Lais Varejão
