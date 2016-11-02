@@ -55,7 +55,7 @@ Escola de Dados
 - **[Keynote - Obstáculos à Inclusão, Por que só diversidade não é suficiente](https://docs.google.com/presentation/d/1L4nqmPQl8NEoh3LnKXN-8qQ1vHfcQgfLB9xKqB4KM38/edit#slide=id.p)** - Naomi Ceder
 - **Hoje sou um professor FELIZ: Python no ensino de programação** - Fernando Masanori
 - **[Aprendi Python, e agora?](aprendi_python_e_agora)** - Júlio César Eiras
-- **Descobrindo as menores distâncias entre diversas cidades com Python e GLPK** - Betania Campello
+- **[Descobrindo as menores distâncias entre diversas cidades com Python e GLPK](descobrindo_as_menores_distancias_entre_diversas_cidades_com_python)** - Betania Campello
 - **[Pyladies e Django Girls ajudando a tornar a comunidade Python mais diversa e mais inclusiva](pyladies_e_django_girls)** - Pyladies Brasil
 - **Real Time Django usando Redis e Websockets** - Stamatios Stamou Jr
 - **AlgPedia - Uma enciclopédia colaborativa de algoritmos e implementações** - Thais Viana
@@ -80,7 +80,7 @@ Escola de Dados
 - **Como desenvolver e manter aplicações em ambiente hostil** - Júlio César
 - **Treinando Modelos Ensemble com Scikit-Learn** - Andressa Sivolella
 - **[Seja contratado! - Dicas para se preparar para um emprego remoto](trabalho_remoto)** - Elyézer Rezende e Bruno Rocha
-- **Search Engines com Python e Elasticsearch** - Patty Vader
+- **[Search Engines com Python e Elasticsearch](search_engines_com_python_e_elasticsearch)** - Patty Vader
 - **[Matemágica Discreta com Python](https://speakerdeck.com/lidymonteiro/python-brasil-12-matemagica-discreta-com-python)** - Lidy Monteiro
 - **Porquê Mr. Robot usa Python?** - Nelson Frugeri
 - **[Definindo um Boilerplate Customizável usando Django, React e Bootstrap](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#boilerplate)** - Lais Varejão
