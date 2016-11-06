@@ -23,7 +23,7 @@ Escola de Dados
 ### Dia 14
 
 - **Django Girls** - Django Girls Floripa
-- **FlapPyLadies: Crie seu primeiro jogo em Python!** - Jessica Dias
+- **[FlapPyLadies: Crie seu primeiro jogo em Python!](flappyladies/)** - Jessica Dias
 - **[Machine Learning para Hackers](machine_learning_para_hackers/)** - Irio Musskopf
 - **pyspark e computação distribuida** - Robson Luis
 - **Qual é a desse tal de Kanban, e como ele pode te ajudar a ser ágil de verdade** - Rodrigo Vieira
