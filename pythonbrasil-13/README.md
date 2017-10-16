@@ -17,7 +17,7 @@ outubro/2017 em Belo Horizonte/MG.
 - **GraphQL: nem sempre REST é a melhor alternativa para sua API** - Nicolle Cysneiros
 - **Embalando segredos com Python** - Moisés Guimarães
 - **Big Data com Apache Spark na Globo.com** - Daniela Petruzalek
-- **Plataforma distribuída de Microserviços ou, como a Olist funciona** - Osvaldo Santana
+- [**Plataforma distribuída de Microserviços ou, como a Olist funciona**](plataforma_distribuida_de_microservicos) - [Osvaldo Santana Neto](https://github.com/osantana)
 - **Prevenindo dores de cabeça com linters e checagens automáticas** - Flávio Juvenal
 - **Criando Web Crawlers com Scrapy e Selenium para páginas com Javascript** - Gileno Filho
 - **Python na Infraestrutura MySQL do Facebook** - Artur Rodrigues
