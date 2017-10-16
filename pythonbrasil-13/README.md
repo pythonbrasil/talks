@@ -53,7 +53,7 @@ outubro/2017 em Belo Horizonte/MG.
 - **Facebook Job Engine (FBJE): a framework for developing scalable workflows in Python** - Navid Sheikhol
 - **O que desenvolvedores deveriam aprender sobre design?** - Débora Correia
 - **Começando com Python - Aprendendo para ensinar, a melhor forma de programar!** - Ana Paula Mendes
-- **PyLadies e Django Girls promovendo a diversidade na tecnologia** - Pyladies Brasil
+- [**PyLadies e Django Girls promovendo a diversidade na tecnologia**](https://pt.slideshare.net/ThaisViana6/pyladies-py-br-2017) - [Pyladies Brasil](https://www.facebook.com/PyLadiesBrazil/)
 - **A Programação Funcional em Python, de forma simples** - Anderson Resende
 - **Provisionamento de redes no data center Globo.com com Python** - Laura Panzariello
 - **O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços** - Rael Max
