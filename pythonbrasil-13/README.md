@@ -8,7 +8,7 @@ outubro/2017 em Belo Horizonte/MG.
 ### Dia 6
 
 - **Keynote** - Paola Katherine
-- **Serenata de Amor: Inteligência artificial usando dados abertos governamentais** - Jessica Temporal
+- [**Serenata de Amor: Inteligência artificial usando dados abertos governamentais**](serenata_de_amor) - [Jessica Temporal](jtemporal.com)
 - **Python na Manutenção de mais de 100 mil embarcados** - Tiago Assunção
 - **Como NÃO programar em Python: crimes dolosos e com agravante** - Ryllari Santana
 - **Bots (automatizando tarefas) um funcionário que não reclama!** - Elinaldo Monteiro
