@@ -56,7 +56,7 @@ outubro/2017 em Belo Horizonte/MG.
 - [**PyLadies e Django Girls promovendo a diversidade na tecnologia**](https://pt.slideshare.net/ThaisViana6/pyladies-py-br-2017) - [Pyladies Brasil](https://www.facebook.com/PyLadiesBrazil/)
 - **A Programação Funcional em Python, de forma simples** - Anderson Resende
 - **Provisionamento de redes no data center Globo.com com Python** - Laura Panzariello
-- **O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços** - Rael Max
+- [**O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços**](dos_monolitos_aos_microservicos_na_globocom) - [Rael Max](https://github.com/raelmax)
 - **Python e tipagem estática** - Carlos Henrique Coêlho
 - [**Usando Python e Django para ampliar a democracia digital**](https://docs.google.com/presentation/d/1obOC-o2iSbsw_hQU6I3epJmTTn2P8CrW67GMdzcHLtI/edit?usp=sharing) - [Matheus Souza Fernandes](https://www.linkedin.com/in/msouzafernandes/)
 - **(Quase) Tudo que você precisa saber sobre tarefas assíncronas** - Filipe Ximenes
