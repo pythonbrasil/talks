@@ -58,7 +58,7 @@ outubro/2017 em Belo Horizonte/MG.
 - **Provisionamento de redes no data center Globo.com com Python** - Laura Panzariello
 - **O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços** - Rael Max
 - **Python e tipagem estática** - Carlos Henrique Coêlho
-- **Usando Python e Django para ampliar a democracia digital** - Matheus Souza Fernandes
+- [**Usando Python e Django para ampliar a democracia digital**](https://docs.google.com/presentation/d/1obOC-o2iSbsw_hQU6I3epJmTTn2P8CrW67GMdzcHLtI/edit?usp=sharing) - [Matheus Souza Fernandes](https://www.linkedin.com/in/msouzafernandes/)
 - **(Quase) Tudo que você precisa saber sobre tarefas assíncronas** - Filipe Ximenes
 - **Linha de Comando: como ser bem implementada e segura** - Carla Souza
 - **Geometria Computacional de Diferencial com Python e SVG: As Curvas da Bosta** - Ole Peter Smith
