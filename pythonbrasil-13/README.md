@@ -11,7 +11,7 @@ outubro/2017 em Belo Horizonte/MG.
 - [**Serenata de Amor: Inteligência artificial usando dados abertos governamentais**](serenata_de_amor) - [Jessica Temporal](jtemporal.com)
 - **Python na Manutenção de mais de 100 mil embarcados** - Tiago Assunção
 - **Como NÃO programar em Python: crimes dolosos e com agravante** - Ryllari Santana
-- **Bots (automatizando tarefas) um funcionário que não reclama!** - Elinaldo Monteiro
+- [**Bots (automatizando tarefas) um funcionário que não reclama!**](bots_automatizando_tarefas_um_funcionrio_que_nao_reclama) - [Elinaldo Monteiro](https://github.com/elinaldosoft)
 - **Decifrando as Runas dos Anões com Python e Machado de Assis** - Hélio de Meira Lins
 - [**A Qualidade do Ecossistema Python - e o que podemos fazer para mantê-la**](http://brunorocha.org/slides/the-quality-of-the-python-ecosystem.html) - [Bruno Rocha](https://github.com/rochacbruno)
 - **GraphQL: nem sempre REST é a melhor alternativa para sua API** - Nicolle Cysneiros
