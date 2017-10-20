@@ -23,4 +23,4 @@ Para resolver esse problema, o Facebook criou o GraphQL: uma linguagem de consul
 ### Contato
 
 - [Twitter](https://twitter.com/nicysneiros)
-- [LinkedIn](https://www.linkedin.com/in/nicolle.cysneiros)
+- [LinkedIn](https://www.linkedin.com/in/nicollecysneiros)
