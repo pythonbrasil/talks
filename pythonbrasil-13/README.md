@@ -85,3 +85,7 @@ outubro/2017 em Belo Horizonte/MG.
 - **Desenvolvimento de um Web Crawler com Python 3** - Gustavo Henrique Nunes
 - **Test Driven Design** - Renato Oliveira e Bernardo Fontes
 - **Capturando dados abertos sem dor de cabeça** - Álvaro "Turicas" Justen
+
+## Palestras relâmpago (lightning talks)
+
+- [**Repositório de Memes**](lt_memes) - Otávio Carneiro
