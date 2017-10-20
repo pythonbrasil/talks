@@ -1,0 +1,24 @@
+node:
+  image: node:0.12.14-wheezy
+  command: "npm install"
+  working_dir: "/usr/src/app"
+  volumes:
+    - ./:/usr/src/app
+
+nodeg:
+  image: node:0.12.14-wheezy
+  command: "npm install"
+  working_dir: "/usr/src/app"
+  volumes:
+    - ./:/usr/src/app
+  volumes_from:
+    - nodeglobal
+
+nodeglobal:
+  image: node:0.12.14-wheezy
+  command: "echo 'fim'"
+  working_dir: "/usr/src/app"
+  volumes:
+    - /usr/local/lib/node_modules
+    - /usr/local/bin
+

@@ -1,0 +1,10 @@
+cv:
+  build: .
+  working_dir: "/data"
+  command: python rotate.py -i image.jpg
+  environment:
+    - DISPLAY # pega a env var da maquina local
+  volumes:
+    - ./:/data
+    - /tmp/.X11-unix:/tmp/.X11-unix:ro
+    - $XAUTHORITY:/root/.Xauthority
