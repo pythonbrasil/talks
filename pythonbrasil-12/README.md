@@ -7,7 +7,7 @@ outubro/2016 em Florianópolis/SC.
 
 ### Dia 13
 
-- **Arquitetura, Especificação e Implementação de APIs REST** - Felipe Rodrigues
+- [**Arquitetura, Especificação e Implementação de APIs REST**](arquitetura_de_APIs_REST) - [Felipe Rodrigues](http://felipevr.com)
 - **Curso Básico de Python** - PyLadies (SP)
 - **Desenvolvimento de Web Scrapers com Scrapy** - Valdir Stumm Junior
 - **[Elm: chega de dor de cabeça com o frontend](http://cuducos.me/2016/09/17/porque-elm.html)** - Eduardo Cuducos
@@ -23,8 +23,8 @@ Escola de Dados
 ### Dia 14
 
 - **Django Girls** - Django Girls Floripa
-- **FlapPyLadies: Crie seu primeiro jogo em Python!** - Jessica Dias
-- **Machine Learning para Hackers** - Irio Musskopf
+- **[FlapPyLadies: Crie seu primeiro jogo em Python!](flappyladies/)** - Jessica Dias
+- **[Machine Learning para Hackers](machine_learning_para_hackers/)** - Irio Musskopf
 - **pyspark e computação distribuida** - Robson Luis
 - **Qual é a desse tal de Kanban, e como ele pode te ajudar a ser ágil de verdade** - Rodrigo Vieira
 - **Realização de um Coding Dojo no formato Randori** - PyLadies São Carlos
@@ -35,7 +35,7 @@ Escola de Dados
 
 ### Dia 15
 
-- **Keynote** - Sérgio Oliveira Campos
+- **[Keynote - Programação Dinâmica](http://www.slideshare.net/seocam/python-brasil-12-overlapping-subproblems)** - Sérgio Oliveira Campos
 - **[O que é esse tal de REST](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#rest)** - Filipe Ximenes
 - **Big data e Python como cidadão de primeira classe para sistemas distribuídos** - Victor Poluceno
 - **É Pythônico, mas... é macarrônico?** - Marcio Marchini
@@ -55,8 +55,8 @@ Escola de Dados
 - **[Keynote - Obstáculos à Inclusão, Por que só diversidade não é suficiente](https://docs.google.com/presentation/d/1L4nqmPQl8NEoh3LnKXN-8qQ1vHfcQgfLB9xKqB4KM38/edit#slide=id.p)** - Naomi Ceder
 - **Hoje sou um professor FELIZ: Python no ensino de programação** - Fernando Masanori
 - **[Aprendi Python, e agora?](aprendi_python_e_agora)** - Júlio César Eiras
-- **Descobrindo as menores distâncias entre diversas cidades com Python e GLPK** - Betania Campello
-- **[Pyladies e Django Girls ajudando a tornar a comunidade Python mais diversa e mais inclusiva](pyladies_e_django_girls)** - [Pyladies Brasil](https://www.facebook.com/PyLadiesBrazil/)
+- **[Descobrindo as menores distâncias entre diversas cidades com Python e GLPK](descobrindo_as_menores_distancias_entre_diversas_cidades_com_python)** - Betania Campello
+- **[Pyladies e Django Girls ajudando a tornar a comunidade Python mais diversa e mais inclusiva](pyladies_e_django_girls)** - - [PyLadies Brasil](https://www.facebook.com/PyLadiesBrazil/)
 - **Real Time Django usando Redis e Websockets** - Stamatios Stamou Jr
 - **AlgPedia - Uma enciclopédia colaborativa de algoritmos e implementações** - Thais Viana
 - **[Performance Analysis 101](performance_analysis_101)** - Tarsis Azevedo
@@ -75,12 +75,12 @@ Escola de Dados
 - **Keynote** - Russell Keith-Magee
 - **[Python Assíncrono: tudo ao mesmo tempo agora](tudo_ao_mesmo_tempo_python_assincrono)** - Luciano Ramalho
 - **1 ano trabalhando como Dev Django depois de 5 anos como Dev Java** - Kátia Yoshime Nakamura
-- **APIs escalaveis, simples e com boa documentação usando Flask e SwaggerUI** - Bruno Rocha
+- **[APIs escalaveis, simples e com boa documentação usando Flask e SwaggerUI](api_front_end_com_flask_e_swagger)** - Bruno Rocha
 - **[Python para malabaristas - uma introdução ao OpenCV](python_para_malabaristas)** - Otavio Carneiro
 - **Como desenvolver e manter aplicações em ambiente hostil** - Júlio César
 - **Treinando Modelos Ensemble com Scikit-Learn** - Andressa Sivolella
-- **Seja contratado! - Dicas para se preparar para um emprego remoto** - Elyézer Rezende e Bruno Rocha
-- **Search Engines com Python e Elasticsearch** - Patty Vader
+- **[Seja contratado! - Dicas para se preparar para um emprego remoto](trabalho_remoto)** - Elyézer Rezende e Bruno Rocha
+- **[Search Engines com Python e Elasticsearch](search_engines_com_python_e_elasticsearch)** - Patty Vader
 - **[Matemágica Discreta com Python](https://speakerdeck.com/lidymonteiro/python-brasil-12-matemagica-discreta-com-python)** - Lidy Monteiro
 - **Porquê Mr. Robot usa Python?** - Nelson Frugeri
 - **[Definindo um Boilerplate Customizável usando Django, React e Bootstrap](http://www.vinta.com.br/blog/2016/python-brasil12-talks/#boilerplate)** - Lais Varejão
@@ -88,8 +88,8 @@ Escola de Dados
 - **Construindo uma aplicação web segura** - Roselma Mendes
 - **Emotional Intelligence as the key of Professional Success** - Julian Farrapeira
 - **[Sua API é uma UI](sua_api_e_uma_ui)** - Renato Oliveira
-- **Docker Overkill: Coisas interessantes, mirabolantes, inseguras e desnecessárias para se fazer com Docker** - Felipe Arruda
-- **Django Performance Tips** - Gustavo Salles
+- **[Docker Overkill: Coisas interessantes, mirabolantes, inseguras e desnecessárias para se fazer com Docker](docker_overkill)** - Felipe Arruda
+- **[Django Performance Tips](django_performance_tips)** - Gustavo Carvalho
 - **[Coerência de cache de granularidade fina, usando django-signals](coerencia_de_cache)** - Helber Maciel Guerra
 
 ## Lightning Talks
