@@ -49,7 +49,7 @@ novembro/2014 em Porto de Galinhas/PE.
 - **Criando testes com plone** - Héctor Velarde, Ramiro
 - **Morte as Startup's, vamos ser Inovadores de VERDADE** - Gileno Alves
 - **Keynote** - Alex Gaynor
-- [**PyLadies - uma iniciativa que promove a diversidade na comunidade Python**](PyLadies_uma_iniciativa_que_promove_a_diversidade_na_ comunidade_Python/) - [PyLadies Brasil](https://www.facebook.com/PyLadiesBrazil/)
+- [**PyLadies - uma iniciativa que promove a diversidade na comunidade Python**](PyLadies_uma_iniciativa_que_promove_a_diversidade_na_%20comunidade_Python/) - [PyLadies Brasil](https://www.facebook.com/PyLadiesBrazil/)
 - **OrientDB - No More Joins** - Bruno Rocha
 - **Digressão DevOps - Profiling de aplicações Python em servidores Linux** -Humberto Diógenes
 - **Você está preparado para o caos?** - Andrews Medina
