@@ -45,7 +45,7 @@ outubro/2017 em Belo Horizonte/MG.
 ### Dia 8
 
 - [**Padrões Arquiteturais, muito além do MVC**](padroes_arquiteturais_muito_alem_do_mvc) - [Darlene Medeiros](https://www.linkedin.com/in/darlene-medeiros)
-- **Previsão de séries temporais com PyData e Inteligência Artificial** - Rebeca Sarai
+- [**Previsão de séries temporais com PyData e Inteligência Artificial**](previsao_de_series_temporais_com_pydata_ia) - [Rebeca Sarai](https://github.com/rsarai)
 - **Projetos de APIs: O que pensar para APIs Públicas, Microsserviços e SPAs** - Celso Crivelaro
 - **O Flask roubou meu coração** - Talita Rossari
 - **Navegando por grafos com Python** - Bernardo Fontes
