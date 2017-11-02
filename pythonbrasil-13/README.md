@@ -33,7 +33,7 @@ outubro/2017 em Belo Horizonte/MG.
 - **Kivy: Python no celular e em vários outros lugares!** - Diego "Dukão" Guimarães
 - **The Walking Dev** - Henrique Bastos
 - **Django Migrations: para entender e perder o medo** - Kátia Nakamura
-- **Descomplicando os mocks** - Douglas Bastos
+- [**Descomplicando os mocks**](descomplicando_mocks) - [Douglas Bastos](douglasbastos.github.io)
 - **Concorrência e Paralelismo - Threads, Múltiplos processos e ASYNCIO** - Diogo Martins
 - **Gênero e Número: Python ajudando nas questões de gênero brasileiras** - Álvaro "Turicas" Justen
 - **Python, ciência dos dados e redes sociais: uma combinação poderosa** - Alice Adativa
