@@ -1,6 +1,11 @@
 ## Slides e materiais das conferências Python pelo Brasil
 
 
+### [Python Brasil [14]](/pythonbrasil-14/README.md)
+- Natal, RN
+- 17 a 22 de Outubro de 2018
+- [2018.pythonbrasil.org.br](http://2018.pythonbrasil.org.br)
+
 ### [Python Brasil [13]](/pythonbrasil-13/README.md)
 - Belo Horizonte, MG
 - 06 a 11 de Outubro de 2017
