@@ -6,7 +6,7 @@ outubro/2018 em Natal/RN.
 ## Palestras
 
 ### Dia 19
-
+- [**Web Crawling e Scraping com Scrapy e Scrapy Cloud**](web_crawling_e_scraping_com_scrapy_e_scrapy_cloud) - [Lidiane Taquehara](https://github.com/lidimayra)
 
 ### Dia 20
 
