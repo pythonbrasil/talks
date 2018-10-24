@@ -9,7 +9,7 @@ outubro/2018 em Natal/RN.
 - [**Web Crawling e Scraping com Scrapy e Scrapy Cloud**](web_crawling_e_scraping_com_scrapy_e_scrapy_cloud) - [Lidiane Taquehara](https://github.com/lidimayra)
 
 ### Dia 20
-
+- [**A linguagem Go pode ajudar o Python a ter mais performance?**](performance_python_com_golang) - [Rafael Henrique](https://github.com/rafaelhenrique/)
 
 ### Dia 21
 - [**Keynote: High Audience Python**](high_audience_python) - [Guilherme Vierno](https://github.com/vierno)
