@@ -15,4 +15,6 @@ outubro/2018 em Natal/RN.
 - [**Keynote: High Audience Python**](high_audience_python) - [Guilherme Vierno](https://github.com/vierno)
 - [**Servindo conteúdo em escala na globo.com**](servindo_conteudo_em_escala_na_globocom) - [Pedro Kiefer](https://github.com/pedrokiefer)
 - [**Git For The Brave - Rebase**](git_for_the_brave_rebase) - [Filipe Mondaini](https://github.com/mondaini)
+- [**De zero a dev em 3 meses**](zero_a_dev_em_3_meses) - [Fabricio Aguiar](https://github.com/fabricio-aguiar)
+
 - [**O que são Blockchains, do que se alimentam e como construir isso com Python**](o_que_sao_blockchains) - [Isac Moura](https://github.com/isacmoura)
