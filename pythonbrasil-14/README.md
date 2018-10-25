@@ -7,7 +7,7 @@ outubro/2018 em Natal/RN.
 
 ### Dia 19
 - [**Web Crawling e Scraping com Scrapy e Scrapy Cloud**](web_crawling_e_scraping_com_scrapy_e_scrapy_cloud) - [Lidiane Taquehara](https://github.com/lidimayra)
-- [**O casamento sagrado entre o Pipfile, pip e Virtualenv **](o_casamento_sagrado_entre_o_pipfile_pip_e_virtualenv) - [Allythy Rennan](https://github.com/allythy)
+- [**O casamento sagrado entre o Pipfile, pip e Virtualenv**](o_casamento_sagrado_entre_o_pipfile_pip_e_virtualenv) - [Allythy Rennan](https://github.com/allythy)
 - [**Aventuras de um Nômade Digital**](aventuras_de_um_nomade_digital) - [Jonatas Baldin](https://deployeveryday.com/)
 
 ### Dia 20
