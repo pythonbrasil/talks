@@ -10,6 +10,7 @@ outubro/2018 em Natal/RN.
 
 ### Dia 20
 - [**A linguagem Go pode ajudar o Python a ter mais performance?**](performance_python_com_golang) - [Rafael Henrique](https://github.com/rafaelhenrique/)
+- [**Aprendendo com os erros**](aprendendo_com_os_erros) - [Luiz Orlando Pereira Braga](https://github.com/luizbraga)
 
 ### Dia 21
 - [**Keynote: High Audience Python**](high_audience_python) - [Guilherme Vierno](https://github.com/vierno)
