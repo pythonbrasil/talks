@@ -10,6 +10,7 @@ outubro/2018 em Natal/RN.
 
 ### Dia 20
 - [**A linguagem Go pode ajudar o Python a ter mais performance?**](performance_python_com_golang) - [Rafael Henrique](https://github.com/rafaelhenrique/)
+- [**Implementando suporte a multi-tenancy em uma aplicação crítica**](implementando_suporte_a_multi_tenancy_em_uma_aplicacao_critica) - [Victor Torres](https://github.com/victor-torres)
 
 ### Dia 21
 - [**Keynote: High Audience Python**](high_audience_python) - [Guilherme Vierno](https://github.com/vierno)
