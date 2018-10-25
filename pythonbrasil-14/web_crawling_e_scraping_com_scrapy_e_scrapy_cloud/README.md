@@ -4,4 +4,6 @@ Scrapy é um framework escrito em Python voltado para web crawling e web scrapin
 
 No Love Mondays, utilizamos estas tecnologias para reunir vagas de emprego de diversas fontes. Os dados são tratados e disponibilizados em nosso site contendo um link para o endereço de origem. Isso significa que, ao buscar uma vaga no Love Mondays, o usuário tem acesso a um banco de informações extremamente volumoso sem a necessidade de visitar diferentes sites um a um.
 
-Os slides estão disponíveis [aqui](https://scrapy-slides.netlify.com/).
+Slides:
+* [Online](https://scrapy-slides.netlify.com/)
+* [PDF](slides.pdf)
