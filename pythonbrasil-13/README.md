@@ -69,7 +69,7 @@ outubro/2017 em Belo Horizonte/MG.
 ### Dia 9
 
 - **Django Girls Workshop** - Django Girls
-- [**Aprenda Flask criando um CMS e suas extensões. What The Flask?**](https://github.com/cursodepythonoficial/flask_tutorial_pybr13) - [Bruno Rocha](https://github.com/rochacbruno)
+- [**Aprenda Flask criando um CMS e suas extensões. What The Flask?**](aprenda_flask_criando_um_cms_e_suas_extensoes_what_the_flask) - [Bruno Rocha](https://github.com/rochacbruno)
 - **Introdução aos Módulos de Análise de Dados** - Letícia Portella e Jessica Temporal
 - **Testes: os primeiros passos** - Roberta Takenaka
 - **Dockerizando suas aplicações Python** - Felipe Morais
