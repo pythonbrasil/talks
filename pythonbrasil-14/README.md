@@ -20,3 +20,4 @@ outubro/2018 em Natal/RN.
 - [**De zero a dev em 3 meses**](zero_a_dev_em_3_meses) - [Fabricio Aguiar](https://github.com/fabricio-aguiar)
 - [**O que são Blockchains, do que se alimentam e como construir isso com Python**](o_que_sao_blockchains) - [Isac Moura](https://github.com/isacmoura)
 - [**Da requisição à resposta - Como o Django processa uma requisição**](da_requisição_ à_resposta_como_o_django_processa_uma_requisição) - [Luciano Ratamero](https://github.com/lucianoratamero/)
+- [**Emulação de processadores - Primeiros passos para emular um NES em Python**](primeiros_passos_para_emular_um_nes) - [Ronaldo Tomazeli Duarte](https://github.com/ronaldotd/)
