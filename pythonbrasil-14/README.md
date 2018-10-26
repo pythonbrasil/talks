@@ -18,6 +18,7 @@ outubro/2018 em Natal/RN.
 
 ### Dia 21
 - [**Keynote: High Audience Python**](high_audience_python) - [Guilherme Vierno](https://github.com/vierno)
+- [**"Mas dá pra abrir no Excel?", exportando para TXT, CSV e JSON com Python**](mas_da_pra_abrir_no_excel_exportar_para_txt_csv_json) - [Renata D'Avila](https://github.com/rsip22)
 - [**Servindo conteúdo em escala na globo.com**](servindo_conteudo_em_escala_na_globocom) - [Pedro Kiefer](https://github.com/pedrokiefer)
 - [**Git For The Brave - Rebase**](git_for_the_brave_rebase) - [Filipe Mondaini](https://github.com/mondaini)
 - [**De zero a dev em 3 meses**](zero_a_dev_em_3_meses) - [Fabricio Aguiar](https://github.com/fabricio-aguiar)
