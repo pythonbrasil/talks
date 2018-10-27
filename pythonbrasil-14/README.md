@@ -10,6 +10,7 @@ outubro/2018 em Natal/RN.
 - [**O casamento sagrado entre o Pipfile, pip e Virtualenv**](o_casamento_sagrado_entre_o_pipfile_pip_e_virtualenv) - [Allythy Rennan](https://github.com/allythy)
 - [**Aventuras de um Nômade Digital**](aventuras_de_um_nomade_digital) - [Jonatas Baldin](https://deployeveryday.com/)
 - [**2 Anos de trabalho remoto**](2_anos_de_trabalho_remoto) - [Julio Melanda](https://juliomelanda.com.br/)
+- [**Perdendo o medo da web com Django**](perdendo_o_medo_da_web_com_django) - [Ryllari Santana](https://github.com/ryllari)
 
 ### Dia 20
 - [**A linguagem Go pode ajudar o Python a ter mais performance?**](performance_python_com_golang) - [Rafael Henrique](https://github.com/rafaelhenrique/)
