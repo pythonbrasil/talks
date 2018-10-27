@@ -9,6 +9,7 @@ outubro/2018 em Natal/RN.
 - [**Web Crawling e Scraping com Scrapy e Scrapy Cloud**](web_crawling_e_scraping_com_scrapy_e_scrapy_cloud) - [Lidiane Taquehara](https://github.com/lidimayra)
 - [**O casamento sagrado entre o Pipfile, pip e Virtualenv**](o_casamento_sagrado_entre_o_pipfile_pip_e_virtualenv) - [Allythy Rennan](https://github.com/allythy)
 - [**Aventuras de um Nômade Digital**](aventuras_de_um_nomade_digital) - [Jonatas Baldin](https://deployeveryday.com/)
+- [**2 Anos de trabalho remoto**](2_anos_de_trabalho_remoto) - [Julio Melanda](https://juliomelanda.com.br/)
 
 ### Dia 20
 - [**A linguagem Go pode ajudar o Python a ter mais performance?**](performance_python_com_golang) - [Rafael Henrique](https://github.com/rafaelhenrique/)
