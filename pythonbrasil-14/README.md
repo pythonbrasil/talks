@@ -18,3 +18,4 @@ outubro/2018 em Natal/RN.
 - [**De zero a dev em 3 meses**](zero_a_dev_em_3_meses) - [Fabricio Aguiar](https://github.com/fabricio-aguiar)
 
 - [**O que são Blockchains, do que se alimentam e como construir isso com Python**](o_que_sao_blockchains) - [Isac Moura](https://github.com/isacmoura)
+- [**Executando Tarefas assíncronas no Django usando Celery**](executando-tarefas-assincronas-no-django-usando-celery) - [Werberth Vinicius](https://github.com/werberth)
