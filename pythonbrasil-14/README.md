@@ -18,6 +18,7 @@ outubro/2018 em Natal/RN.
 - [**Usando recursos avançados da ORM do Django para consultas mais eficientes**](usando_recursos_avancados_da_orm_do_django_para_consultas_mais_eficientes) - [Mariana Bedran](https://twitter.com/maribedran)
 - [**Aprendendo com os erros**](aprendendo_com_os_erros) - [Luiz Orlando Pereira Braga](https://github.com/luizbraga)
 - [**Como hackear a biologia com Python**](como_hackear_a_biologia_com_python) - [Inácio Medeiros](https://github.com/inaciomdrs)
+- [**Apresentando Graphene uma lib Graphql para o Django**](apresentando_graphene_uma_lib_graphql_para_o_django) - [Ciro Valente](https://github.com/cvalentefilho)
 
 ### Dia 21
 - [**Keynote: High Audience Python**](high_audience_python) - [Guilherme Vierno](https://github.com/vierno)
