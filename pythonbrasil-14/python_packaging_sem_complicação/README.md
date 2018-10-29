@@ -5,9 +5,9 @@ Você escreveu código lindão e deseja que as pessoas usem seu código. O que f
 Vamos falar de:
 
 
-Uma (breve) história do empacotamento de pacotes Python
-Guia do usuário do Python Packaging Guide
-Formatos de distribuição
-"'Anatomia" de um pacote
+* Uma (breve) história do empacotamento de pacotes Python
+* Guia do usuário do Python Packaging Guide
+* Formatos de distribuição
+* "Anatomia" de um pacote
 
 Além disso, falaremos de teste de instalação do pacote e liberação pro PyPI.
