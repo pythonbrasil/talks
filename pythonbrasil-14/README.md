@@ -21,6 +21,7 @@ outubro/2018 em Natal/RN.
 - [**Apresentando Graphene uma lib Graphql para o Django**](apresentando_graphene_uma_lib_graphql_para_o_django) - [Ciro Valente](https://github.com/cvalentefilho)
 - [**Informação Salva: Python ajudando a entender um problema silencioso de saúde pública no Brasil e no mundo, o Suicídio**](informacao_salva_python_ajudando_a_entender_um_problema_silencioso_de_saude_publica_no_brasil_e_no_mundo_o_suicidio) - [Marcelo Andriolli](https://github.com/marceloandriolli/)
 - [**Scrapy beyond the first steps**](scrapy_beyond_the_first_steps) - [Eugenio Lacuesta](https://github.com/elacuesta)
+- [**Pensamento Computacional com Blocos e Python**](blocos_e_python) - [Givanaldo Rocha de Souza](http://docente.ifrn.edu.br/givanaldorocha)
 
 ### Dia 21
 - [**Keynote: High Audience Python**](high_audience_python) - [Guilherme Vierno](https://github.com/vierno)
