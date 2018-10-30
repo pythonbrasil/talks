@@ -13,7 +13,7 @@ outubro/2017 em Belo Horizonte/MG.
 - **Como NÃO programar em Python: crimes dolosos e com agravante** - Ryllari Santana
 - [**Bots (automatizando tarefas) um funcionário que não reclama!**](bots_automatizando_tarefas_um_funcionrio_que_nao_reclama) - [Elinaldo Monteiro](https://github.com/elinaldosoft)
 - **Decifrando as Runas dos Anões com Python e Machado de Assis** - Hélio de Meira Lins
-- [**A Qualidade do Ecossistema Python - e o que podemos fazer para mantê-la**](http://brunorocha.org/slides/the-quality-of-the-python-ecosystem.html) - [Bruno Rocha](https://github.com/rochacbruno)
+- [**A Qualidade do Ecossistema Python - e o que podemos fazer para mantê-la**](a_qualidade_do_ecossistema_python_e_o_que_podemos_fazer_para_mante_la) - [Bruno Rocha](https://github.com/rochacbruno)
 - **GraphQL: nem sempre REST é a melhor alternativa para sua API** - Nicolle Cysneiros
 - **Embalando segredos com Python** - Moisés Guimarães
 - **Big Data com Apache Spark na Globo.com** - Daniela Petruzalek
@@ -69,7 +69,7 @@ outubro/2017 em Belo Horizonte/MG.
 ### Dia 9
 
 - **Django Girls Workshop** - Django Girls
-- [**Aprenda Flask criando um CMS e suas extensões. What The Flask?**](https://github.com/cursodepythonoficial/flask_tutorial_pybr13) - [Bruno Rocha](https://github.com/rochacbruno)
+- [**Aprenda Flask criando um CMS e suas extensões. What The Flask?**](aprenda_flask_criando_um_cms_e_suas_extensoes_what_the_flask) - [Bruno Rocha](https://github.com/rochacbruno)
 - **Introdução aos Módulos de Análise de Dados** - Letícia Portella e Jessica Temporal
 - **Testes: os primeiros passos** - Roberta Takenaka
 - **Dockerizando suas aplicações Python** - Felipe Morais
