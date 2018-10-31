@@ -11,6 +11,7 @@ outubro/2018 em Natal/RN.
 - [**Aventuras de um Nômade Digital**](aventuras_de_um_nomade_digital) - [Jonatas Baldin](https://deployeveryday.com/)
 - [**2 Anos de trabalho remoto**](2_anos_de_trabalho_remoto) - [Julio Melanda](https://juliomelanda.com.br/)
 - [**Perdendo o medo da web com Django**](perdendo_o_medo_da_web_com_django) - [Ryllari Santana](https://github.com/ryllari)
+- [**AutoML with Python - machine learning made easy(ish)**](automl) - [Leonardo Bezerra](https://github.com/leobezerra)
 
 ### Dia 20
 - [**A linguagem Go pode ajudar o Python a ter mais performance?**](performance_python_com_golang) - [Rafael Henrique](https://github.com/rafaelhenrique/)
@@ -20,6 +21,9 @@ outubro/2018 em Natal/RN.
 - [**Como hackear a biologia com Python**](como_hackear_a_biologia_com_python) - [Inácio Medeiros](https://github.com/inaciomdrs)
 - [**Apresentando Graphene uma lib Graphql para o Django**](apresentando_graphene_uma_lib_graphql_para_o_django) - [Ciro Valente](https://github.com/cvalentefilho)
 - [**Python packaging sem complicação!**](python_packaging_sem_complicação) - [Débora Azevedo](https://twitter.com/pydebb)
+- [**Informação Salva: Python ajudando a entender um problema silencioso de saúde pública no Brasil e no mundo, o Suicídio**](informacao_salva_python_ajudando_a_entender_um_problema_silencioso_de_saude_publica_no_brasil_e_no_mundo_o_suicidio) - [Marcelo Andriolli](https://github.com/marceloandriolli/)
+- [**Scrapy beyond the first steps**](scrapy_beyond_the_first_steps) - [Eugenio Lacuesta](https://github.com/elacuesta)
+- [**Pensamento Computacional com Blocos e Python**](blocos_e_python) - [Givanaldo Rocha de Souza](http://docente.ifrn.edu.br/givanaldorocha)
 
 ### Dia 21
 - [**Keynote: High Audience Python**](high_audience_python) - [Guilherme Vierno](https://github.com/vierno)
@@ -28,5 +32,7 @@ outubro/2018 em Natal/RN.
 - [**Git For The Brave - Rebase**](git_for_the_brave_rebase) - [Filipe Mondaini](https://github.com/mondaini)
 - [**De zero a dev em 3 meses**](zero_a_dev_em_3_meses) - [Fabricio Aguiar](https://github.com/fabricio-aguiar)
 - [**O que são Blockchains, do que se alimentam e como construir isso com Python**](o_que_sao_blockchains) - [Isac Moura](https://github.com/isacmoura)
+- [**Executando Tarefas assíncronas no Django usando Celery**](executando-tarefas-assincronas-no-django-usando-celery) - [Werberth Vinicius](https://github.com/werberth)
 - [**Da requisição à resposta - Como o Django processa uma requisição**](da_requisição_%20à_resposta_como_o_django_processa_uma_requisição) - [Luciano Ratamero](https://github.com/lucianoratamero/)
 - [**Emulação de processadores - Primeiros passos para emular um NES em Python**](primeiros_passos_para_emular_um_nes) - [Ronaldo Tomazeli Duarte](https://github.com/ronaldotd/)
+- [**Medindo o preconceito no aprendizado de máquinas**](medindo_preconceito_no_aprendizado_de_maquinas) - [Gustavo Coelho](https://github.com/gusrabbit)
