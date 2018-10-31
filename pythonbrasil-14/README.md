@@ -20,6 +20,7 @@ outubro/2018 em Natal/RN.
 - [**Como hackear a biologia com Python**](como_hackear_a_biologia_com_python) - [Inácio Medeiros](https://github.com/inaciomdrs)
 - [**Apresentando Graphene uma lib Graphql para o Django**](apresentando_graphene_uma_lib_graphql_para_o_django) - [Ciro Valente](https://github.com/cvalentefilho)
 - [**Python packaging sem complicação!**](python_packaging_sem_complicação) - [Débora Azevedo](https://twitter.com/pydebb)
+
 ### Dia 21
 - [**Keynote: High Audience Python**](high_audience_python) - [Guilherme Vierno](https://github.com/vierno)
 - [**"Mas dá pra abrir no Excel?", exportando para TXT, CSV e JSON com Python**](mas_da_pra_abrir_no_excel_exportar_para_txt_csv_json) - [Renata D'Avila](https://github.com/rsip22)
