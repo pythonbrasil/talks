@@ -33,3 +33,4 @@ outubro/2018 em Natal/RN.
 - [**Executando Tarefas assíncronas no Django usando Celery**](executando-tarefas-assincronas-no-django-usando-celery) - [Werberth Vinicius](https://github.com/werberth)
 - [**Da requisição à resposta - Como o Django processa uma requisição**](da_requisição_%20à_resposta_como_o_django_processa_uma_requisição) - [Luciano Ratamero](https://github.com/lucianoratamero/)
 - [**Emulação de processadores - Primeiros passos para emular um NES em Python**](primeiros_passos_para_emular_um_nes) - [Ronaldo Tomazeli Duarte](https://github.com/ronaldotd/)
+- [**Medindo o preconceito no aprendizado de máquinas**](medindo_preconceito_no_aprendizado_de_maquinas) - [Gustavo Coelho](https://github.com/gusrabbit)
