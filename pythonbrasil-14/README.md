@@ -15,6 +15,7 @@ outubro/2018 em Natal/RN.
 
 ### Dia 20
 - [**A linguagem Go pode ajudar o Python a ter mais performance?**](performance_python_com_golang) - [Rafael Henrique](https://github.com/rafaelhenrique/)
+- [**Como construimos o novo site de SciELO para atender mais de 20 milhões de page views por mês acessando conteúdo open access**](projeto_opac_scielo) - [Juan Funez](https://github.com/jfunez/)
 - [**Implementando suporte a multi-tenancy em uma aplicação crítica**](implementando_suporte_a_multi_tenancy_em_uma_aplicacao_critica) - [Victor Torres](https://github.com/victor-torres)
 - [**Usando recursos avançados da ORM do Django para consultas mais eficientes**](usando_recursos_avancados_da_orm_do_django_para_consultas_mais_eficientes) - [Mariana Bedran](https://twitter.com/maribedran)
 - [**Aprendendo com os erros**](aprendendo_com_os_erros) - [Luiz Orlando Pereira Braga](https://github.com/luizbraga)
