@@ -19,6 +19,7 @@ outubro/2018 em Natal/RN.
 - [**Implementando suporte a multi-tenancy em uma aplicação crítica**](implementando_suporte_a_multi_tenancy_em_uma_aplicacao_critica) - [Victor Torres](https://github.com/victor-torres)
 - [**Usando recursos avançados da ORM do Django para consultas mais eficientes**](usando_recursos_avancados_da_orm_do_django_para_consultas_mais_eficientes) - [Mariana Bedran](https://twitter.com/maribedran)
 - [**Aprendendo com os erros**](aprendendo_com_os_erros) - [Luiz Orlando Pereira Braga](https://github.com/luizbraga)
+- [**Prevendo o resultado de partidas de League of Legends com python**](prevendo_resultados_de_partidas_de_lol_com_python) - [Marcus Ferreira](https://github.com/marcusdefgh)
 - [**Como hackear a biologia com Python**](como_hackear_a_biologia_com_python) - [Inácio Medeiros](https://github.com/inaciomdrs)
 - [**Apresentando Graphene uma lib Graphql para o Django**](apresentando_graphene_uma_lib_graphql_para_o_django) - [Ciro Valente](https://github.com/cvalentefilho)
 - [**Python packaging sem complicação!**](python_packaging_sem_complicação) - [Débora Azevedo](https://twitter.com/pydebb)
