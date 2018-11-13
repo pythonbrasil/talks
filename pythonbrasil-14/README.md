@@ -12,6 +12,7 @@ outubro/2018 em Natal/RN.
 - [**2 Anos de trabalho remoto**](2_anos_de_trabalho_remoto) - [Julio Melanda](https://juliomelanda.com.br/)
 - [**Perdendo o medo da web com Django**](perdendo_o_medo_da_web_com_django) - [Ryllari Santana](https://github.com/ryllari)
 - [**AutoML with Python - machine learning made easy(ish)**](automl_with_python) - [Leonardo Bezerra](https://github.com/leobezerra)
+- [**Envie e Esqueça - Messaging 101**](messaging-101-envie-e-esqueca) - [Andre Pastore](https://github.com/apast)
 
 ### Dia 20
 - [**A linguagem Go pode ajudar o Python a ter mais performance?**](performance_python_com_golang) - [Rafael Henrique](https://github.com/rafaelhenrique/)
