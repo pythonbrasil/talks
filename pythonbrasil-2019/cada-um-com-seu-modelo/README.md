@@ -5,7 +5,7 @@ Apresentado por: Gabriel Bellon
 
 ## Slides
 
-Acesse os slides aqui: [Slides](cada-um-com-seu-modelo/pybr2019-gabriel-bellon-cada-um-com-seu-modelo.pdf)
+Acesse os slides aqui: [Slides](./pybr2019-gabriel-bellon-cada-um-com-seu-modelo.pdf)
 
 
 ## Vídeo
