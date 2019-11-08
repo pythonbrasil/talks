@@ -1,6 +1,11 @@
 ## Slides e materiais das conferências Python pelo Brasil
 
 
+### [Python Brasil 2019](/pythonbrasil-2019/README.md)
+- Ribeirão Preto, SP
+- 23 a 28 de Outubro de 2019
+- [2019.pythonbrasil.org.br](https://2019.pythonbrasil.org.br)
+
 ### [Python Brasil [14]](/pythonbrasil-14/README.md)
 - Natal, RN
 - 17 a 22 de Outubro de 2018
