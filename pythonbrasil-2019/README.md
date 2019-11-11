@@ -6,8 +6,6 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 
 ## Palestras
 
-### Com slides 
-
 - [**Aprendendo e ensinando Python para “programadores alternativos”**](./talks/aprendendo-e-ensinando-python-para/) - Alexandre Villares 
 
 - [**Un algoritmo de Mallado Poliedral en 3 Dimensiones para Aproximar Soluciones a Problemas Físicos Singulares**](./talks/un-algoritmo-de-mallado-poliedral/) - Alexis Jawtuschenko 
