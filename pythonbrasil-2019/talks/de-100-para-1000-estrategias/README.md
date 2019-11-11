@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: De 100 para 1000: estratégias para quem está começando a se preocupar com performance
+Apresentada por: **Filipe de Alencar Ximenes**
 
 
 A palestra **De 100 para 1000: estratégias para quem está começando a se preocupar com performance** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## De 100 para 1000: estratégias para quem está começando a se preocupar com performance
-Apresentada por: **Filipe de Alencar Ximenes**
 
 ### Slides
-Acesse os slides: **[De 100 para 1000: estratégias para quem está começando a se preocupar com performance](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

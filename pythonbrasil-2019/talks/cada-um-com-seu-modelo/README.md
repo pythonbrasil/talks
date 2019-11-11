@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Cada um com seu modelo - Criando um modelo de classificação e de sugestão único por usuário
+Apresentada por: **Gabriel Bellon**
 
 
 A palestra **Cada um com seu modelo - Criando um modelo de classificação e de sugestão único por usuário** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Cada um com seu modelo - Criando um modelo de classificação e de sugestão único por usuário
-Apresentada por: **Gabriel Bellon**
 
 ### Slides
+
 Acesse os slides: **[Cada um com seu modelo - Criando um modelo de classificação e de sugestão único por usuário](./pybr2019-gabriel-bellon-cada-um-com-seu-modelo.pdf)**
+
 
 
 ### Sobre Palestra

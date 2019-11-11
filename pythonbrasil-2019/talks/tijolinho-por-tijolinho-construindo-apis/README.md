@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Tijolinho por tijolinho: Construindo APIs com Django
+Apresentada por: **Ryllari Santana**
 
 
 A palestra **Tijolinho por tijolinho: Construindo APIs com Django** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Tijolinho por tijolinho: Construindo APIs com Django
-Apresentada por: **Ryllari Santana**
 
 ### Slides
+
 Acesse os slides: **[Tijolinho por tijolinho: Construindo APIs com Django](./pybr2019-ryllari-santana-tijolinho-por-tijolinho-construindo-apis.pdf)**
+
 
 
 ### Sobre Palestra

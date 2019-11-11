@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: De dias para minutos, de minutos para milisegundos com SQLAlchemy
+Apresentada por: **Leonardo Rochael Almeida**
 
 
 A palestra **De dias para minutos, de minutos para milisegundos com SQLAlchemy** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## De dias para minutos, de minutos para milisegundos com SQLAlchemy
-Apresentada por: **Leonardo Rochael Almeida**
 
 ### Slides
-Acesse os slides: **[De dias para minutos, de minutos para milisegundos com SQLAlchemy](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

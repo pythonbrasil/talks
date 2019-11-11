@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Evitando algumas falhas de segurança em aplicações web com Python
+Apresentada por: **Mariana de Albuquerque Campos**
 
 
 A palestra **Evitando algumas falhas de segurança em aplicações web com Python** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Evitando algumas falhas de segurança em aplicações web com Python
-Apresentada por: **Mariana de Albuquerque Campos**
 
 ### Slides
+
 Acesse os slides: **[Evitando algumas falhas de segurança em aplicações web com Python](./pybr2019-mariana-de-albuquerque-evitando-algumas-falhas-de-seguranca.pptx)**
+
 
 
 ### Sobre Palestra

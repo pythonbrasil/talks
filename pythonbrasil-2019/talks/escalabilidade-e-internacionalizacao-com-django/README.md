@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Escalabilidade e internacionalização com Django para milhões de acessos
+Apresentada por: **Lidiane de Souza Monteiro**
 
 
 A palestra **Escalabilidade e internacionalização com Django para milhões de acessos** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Escalabilidade e internacionalização com Django para milhões de acessos
-Apresentada por: **Lidiane de Souza Monteiro**
 
 ### Slides
+
 Acesse os slides: **[Escalabilidade e internacionalização com Django para milhões de acessos](./pybr2019-lidiane-de-souza-escalabilidade-e-internacionalizacao-com-django.pdf)**
+
 
 
 ### Sobre Palestra

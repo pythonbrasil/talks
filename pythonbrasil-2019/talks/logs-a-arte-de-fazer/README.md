@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN
+Apresentada por: **Ingrid Sena**
 
 
 A palestra **Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN
-Apresentada por: **Ingrid Sena**
 
 ### Slides
-Acesse os slides: **[Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

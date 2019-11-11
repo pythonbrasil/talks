@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Saúde mental e o mercado de tecnologia, vamos falar sobre?
+Apresentada por: **Leonardo Morales Belluzzi**
 
 
 A palestra **Saúde mental e o mercado de tecnologia, vamos falar sobre?** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Saúde mental e o mercado de tecnologia, vamos falar sobre?
-Apresentada por: **Leonardo Morales Belluzzi**
 
 ### Slides
-Acesse os slides: **[Saúde mental e o mercado de tecnologia, vamos falar sobre?](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

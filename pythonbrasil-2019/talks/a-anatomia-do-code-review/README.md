@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: A anatomia do code review
+Apresentada por: **Guilherme Garnier**
 
 
 A palestra **A anatomia do code review** foi apresentada no dia 25/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## A anatomia do code review
-Apresentada por: **Guilherme Garnier**
 
 ### Slides
+
 Acesse os slides: **[A anatomia do code review](./pybr2019-guilherme-garnier-a-anatomia-do-code-review.pdf)**
+
 
 
 ### Sobre Palestra

@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Código à prova de raios cósmicos
+Apresentada por: **Pietra Freitas**
 
 
 A palestra **Código à prova de raios cósmicos** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Código à prova de raios cósmicos
-Apresentada por: **Pietra Freitas**
 
 ### Slides
-Acesse os slides: **[Código à prova de raios cósmicos](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

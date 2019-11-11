@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Em nome das Boas Práticas de Código da Casa Django, Rainha do Backend, eu te sentencio a testar - A Game of Tests
+Apresentada por: **Amanda Savluchinske**
 
 
 A palestra **Em nome das Boas Práticas de Código da Casa Django, Rainha do Backend, eu te sentencio a testar - A Game of Tests** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Em nome das Boas Práticas de Código da Casa Django, Rainha do Backend, eu te sentencio a testar - A Game of Tests
-Apresentada por: **Amanda Savluchinske**
 
 ### Slides
-Acesse os slides: **[Em nome das Boas Práticas de Código da Casa Django, Rainha do Backend, eu te sentencio a testar - A Game of Tests](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

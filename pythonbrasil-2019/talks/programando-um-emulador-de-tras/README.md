@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Programando um Emulador de trás pra frente
+Apresentada por: **Henrique Bastos**
 
 
 A palestra **Programando um Emulador de trás pra frente** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Programando um Emulador de trás pra frente
-Apresentada por: **Henrique Bastos**
 
 ### Slides
-Acesse os slides: **[Programando um Emulador de trás pra frente](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

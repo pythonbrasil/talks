@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Un algoritmo de Mallado Poliedral en 3 Dimensiones para Aproximar Soluciones a Problemas Físicos Singulares
+Apresentada por: **Alexis Jawtuschenko**
 
 
 A palestra **Un algoritmo de Mallado Poliedral en 3 Dimensiones para Aproximar Soluciones a Problemas Físicos Singulares** foi apresentada no dia 25/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Un algoritmo de Mallado Poliedral en 3 Dimensiones para Aproximar Soluciones a Problemas Físicos Singulares
-Apresentada por: **Alexis Jawtuschenko**
 
 ### Slides
-Acesse os slides: **[Un algoritmo de Mallado Poliedral en 3 Dimensiones para Aproximar Soluciones a Problemas Físicos Singulares](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Aplicando DevOps com Automações feitas em Python e Flask
+Apresentada por: **William Lino Oliveira**
 
 
 A palestra **Aplicando DevOps com Automações feitas em Python e Flask** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Aplicando DevOps com Automações feitas em Python e Flask
-Apresentada por: **William Lino Oliveira**
 
 ### Slides
+
 Acesse os slides: **[Aplicando DevOps com Automações feitas em Python e Flask](./pybr2019-william-lino-oliveira-aplicando-devops-com-automacoes-feitas.pptx)**
+
 
 
 ### Sobre Palestra

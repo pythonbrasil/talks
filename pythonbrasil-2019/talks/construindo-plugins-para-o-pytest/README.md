@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Construindo plugins para o Pytest
+Apresentada por: **Rafael Henrique da Silva Correia**
 
 
 A palestra **Construindo plugins para o Pytest** foi apresentada no dia 25/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Construindo plugins para o Pytest
-Apresentada por: **Rafael Henrique da Silva Correia**
 
 ### Slides
-Acesse os slides: **[Construindo plugins para o Pytest](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

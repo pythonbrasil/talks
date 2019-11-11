@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Aprendizado Profundo Híbrido em Python para Análise de Sentimentos e Reconhecimento de Contexto
+Apresentada por: **Arthur Fortes da Costa**
 
 
 A palestra **Aprendizado Profundo Híbrido em Python para Análise de Sentimentos e Reconhecimento de Contexto** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Aprendizado Profundo Híbrido em Python para Análise de Sentimentos e Reconhecimento de Contexto
-Apresentada por: **Arthur Fortes da Costa**
 
 ### Slides
-Acesse os slides: **[Aprendizado Profundo Híbrido em Python para Análise de Sentimentos e Reconhecimento de Contexto](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

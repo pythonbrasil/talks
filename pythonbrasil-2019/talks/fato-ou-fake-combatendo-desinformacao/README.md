@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Fato ou Fake? Combatendo desinformação com Aprendizagem de Máquina e Processamento de Linguagem Natural
+Apresentada por: **Thais Gomes de Almeida**
 
 
 A palestra **Fato ou Fake? Combatendo desinformação com Aprendizagem de Máquina e Processamento de Linguagem Natural** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Fato ou Fake? Combatendo desinformação com Aprendizagem de Máquina e Processamento de Linguagem Natural
-Apresentada por: **Thais Gomes de Almeida**
 
 ### Slides
+
 Acesse os slides: **[Fato ou Fake? Combatendo desinformação com Aprendizagem de Máquina e Processamento de Linguagem Natural](./pybr2019-thais-gomes-de-fato-ou-fake-combatendo-desinformacao.pdf)**
+
 
 
 ### Sobre Palestra

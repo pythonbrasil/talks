@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Continuous Documentation: se não está documentado, seu projeto não existe
+Apresentada por: **Renne Rocha**
 
 
 A palestra **Continuous Documentation: se não está documentado, seu projeto não existe** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Continuous Documentation: se não está documentado, seu projeto não existe
-Apresentada por: **Renne Rocha**
 
 ### Slides
+
 Acesse os slides: **[Continuous Documentation: se não está documentado, seu projeto não existe](./pybr2019-renne-rocha-continuous-documentation-se-nao-esta.pdf)**
+
 
 
 ### Sobre Palestra

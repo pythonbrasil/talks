@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Docker: melhorando sua vida como desenvolvedor Python
+Apresentada por: **Gustavo Carvalho**
 
 
 A palestra **Docker: melhorando sua vida como desenvolvedor Python** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Docker: melhorando sua vida como desenvolvedor Python
-Apresentada por: **Gustavo Carvalho**
 
 ### Slides
-Acesse os slides: **[Docker: melhorando sua vida como desenvolvedor Python](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

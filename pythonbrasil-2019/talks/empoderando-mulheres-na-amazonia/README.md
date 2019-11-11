@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Empoderando mulheres na Amazônia
+Apresentada por: **PyLadies Manaus**
 
 
 A palestra **Empoderando mulheres na Amazônia** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Empoderando mulheres na Amazônia
-Apresentada por: **PyLadies Manaus**
 
 ### Slides
+
 Acesse os slides: **[Empoderando mulheres na Amazônia](./pybr2019-pyladies-manaus-empoderando-mulheres-na-amazonia.pdf)**
+
 
 
 ### Sobre Palestra

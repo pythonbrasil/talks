@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Do nada, tudo se constrói: Sobre testes, TDD e pytest
+Apresentada por: **André Pastore**
 
 
 A palestra **Do nada, tudo se constrói: Sobre testes, TDD e pytest** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Do nada, tudo se constrói: Sobre testes, TDD e pytest
-Apresentada por: **André Pastore**
 
 ### Slides
+
 Acesse os slides: **[Do nada, tudo se constrói: Sobre testes, TDD e pytest](./pybr2019-andre-pastore-do-nada-tudo-se-constroi.pdf)**
+
 
 
 ### Sobre Palestra

@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Migrações de dados sem downtimes! Truques e lições aprendidas com PostgreSQL na Olist
+Apresentada por: **Jéssica Pauli de Castro Bonson**
 
 
 A palestra **Migrações de dados sem downtimes! Truques e lições aprendidas com PostgreSQL na Olist** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Migrações de dados sem downtimes! Truques e lições aprendidas com PostgreSQL na Olist
-Apresentada por: **Jéssica Pauli de Castro Bonson**
 
 ### Slides
+
 Acesse os slides: **[Migrações de dados sem downtimes! Truques e lições aprendidas com PostgreSQL na Olist](./pybr2019-jessica-pauli-de-migracoes-de-dados-sem-downtimes.pdf)**
+
 
 
 ### Sobre Palestra

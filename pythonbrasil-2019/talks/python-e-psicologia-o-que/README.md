@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Python e Psicologia o que uma tem a oferecer a outra: a resposta para a pergunta - Por que Python atravessou a rua?
+Apresentada por: **Nelson de Campos Nolasco**
 
 
 A palestra **Python e Psicologia o que uma tem a oferecer a outra: a resposta para a pergunta - Por que Python atravessou a rua?** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Python e Psicologia o que uma tem a oferecer a outra: a resposta para a pergunta - Por que Python atravessou a rua?
-Apresentada por: **Nelson de Campos Nolasco**
 
 ### Slides
-Acesse os slides: **[Python e Psicologia o que uma tem a oferecer a outra: a resposta para a pergunta - Por que Python atravessou a rua?](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

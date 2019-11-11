@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Utilizando os pandas para entender os casos de violência contra a mulher na cidade do Recife.
+Apresentada por: **Maria Fernanda Souza Andrade**
 
 
 A palestra **Utilizando os pandas para entender os casos de violência contra a mulher na cidade do Recife.** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Utilizando os pandas para entender os casos de violência contra a mulher na cidade do Recife.
-Apresentada por: **Maria Fernanda Souza Andrade**
 
 ### Slides
-Acesse os slides: **[Utilizando os pandas para entender os casos de violência contra a mulher na cidade do Recife.](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

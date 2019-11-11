@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: 1 + 1 = 1 ou Pareamento de Registros com Python
+Apresentada por: **Flávio Juvenal**
 
 
 A palestra **1 + 1 = 1 ou Pareamento de Registros com Python** foi apresentada no dia 25/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## 1 + 1 = 1 ou Pareamento de Registros com Python
-Apresentada por: **Flávio Juvenal**
 
 ### Slides
+
 Acesse os slides: **[1 + 1 = 1 ou Pareamento de Registros com Python](./pybr2019-flavio-juvenal-1-1-1-ou-pareamento.pdf)**
+
 
 
 ### Sobre Palestra

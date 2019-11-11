@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: [algoritmo.info for algoritmo in algoritmos.sort()]
+Apresentada por: **Rebeca Sarai**
 
 
 A palestra **[algoritmo.info for algoritmo in algoritmos.sort()]** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## [algoritmo.info for algoritmo in algoritmos.sort()]
-Apresentada por: **Rebeca Sarai**
 
 ### Slides
+
 Acesse os slides: **[[algoritmo.info for algoritmo in algoritmos.sort()]](./pybr2019-rebeca-sarai-algoritmoinfo-for-algoritmo-in-algoritmossort.pdf)**
+
 
 
 ### Sobre Palestra

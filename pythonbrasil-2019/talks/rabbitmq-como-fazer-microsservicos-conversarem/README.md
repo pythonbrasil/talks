@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: RabbitMQ, como fazer microsserviços conversarem
+Apresentada por: **João Daher Neto**
 
 
 A palestra **RabbitMQ, como fazer microsserviços conversarem** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## RabbitMQ, como fazer microsserviços conversarem
-Apresentada por: **João Daher Neto**
 
 ### Slides
+
 Acesse os slides: **[RabbitMQ, como fazer microsserviços conversarem](./pybr2019-joao-daher-neto-rabbitmq-como-fazer-microsservicos-conversarem.pdf)**
+
 
 
 ### Sobre Palestra

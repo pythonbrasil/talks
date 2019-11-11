@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Microsserviços prontos para produção
+Apresentada por: **Rodrigo Mendonça**
 
 
 A palestra **Microsserviços prontos para produção** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Microsserviços prontos para produção
-Apresentada por: **Rodrigo Mendonça**
 
 ### Slides
+
 Acesse os slides: **[Microsserviços prontos para produção](./pybr2019-rodrigo-mendonca-microsservicos-prontos-para-producao.pptx)**
+
 
 
 ### Sobre Palestra

@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Acelerando Aplicações Científicas com Cython
+Apresentada por: **Emanuel Lima**
 
 
 A palestra **Acelerando Aplicações Científicas com Cython** foi apresentada no dia 27/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Acelerando Aplicações Científicas com Cython
-Apresentada por: **Emanuel Lima**
 
 ### Slides
+
 Acesse os slides: **[Acelerando Aplicações Científicas com Cython](./pybr2019-emanuel-lima-acelerando-aplicacoes-cientificas-com-cython.pdf)**
+
 
 
 ### Sobre Palestra

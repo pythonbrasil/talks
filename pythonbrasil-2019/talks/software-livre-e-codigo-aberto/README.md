@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Software Livre e Código Aberto - você também pode contribuir!
+Apresentada por: **Paulo Henrique de Lima Santana**
 
 
 A palestra **Software Livre e Código Aberto - você também pode contribuir!** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Software Livre e Código Aberto - você também pode contribuir!
-Apresentada por: **Paulo Henrique de Lima Santana**
 
 ### Slides
+
 Acesse os slides: **[Software Livre e Código Aberto - você também pode contribuir!](./pybr2019-paulo-henrique-de-software-livre-e-codigo-aberto.pdf)**
+
 
 
 ### Sobre Palestra

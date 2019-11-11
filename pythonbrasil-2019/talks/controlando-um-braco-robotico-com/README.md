@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Controlando um braço robótico com MicroPython
+Apresentada por: **Juliana Karoline de Sousa**
 
 
 A palestra **Controlando um braço robótico com MicroPython** foi apresentada no dia 25/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Controlando um braço robótico com MicroPython
-Apresentada por: **Juliana Karoline de Sousa**
 
 ### Slides
+
 Acesse os slides: **[Controlando um braço robótico com MicroPython](./pybr2019-juliana-karoline-de-controlando-um-braco-robotico-com.pdf)**
+
 
 
 ### Sobre Palestra

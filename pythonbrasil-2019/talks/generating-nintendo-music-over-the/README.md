@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Generating Nintendo Music Over the Phone in Python with Magenta
+Apresentada por: **Samuel Agnew**
 
 
 A palestra **Generating Nintendo Music Over the Phone in Python with Magenta** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Generating Nintendo Music Over the Phone in Python with Magenta
-Apresentada por: **Samuel Agnew**
 
 ### Slides
-Acesse os slides: **[Generating Nintendo Music Over the Phone in Python with Magenta](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra

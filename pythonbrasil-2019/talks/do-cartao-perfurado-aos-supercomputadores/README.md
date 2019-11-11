@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Do cartão perfurado aos supercomputadores: Fortran moderno na prática (e no Python)
+Apresentada por: **Melissa Weber Mendonça**
 
 
 A palestra **Do cartão perfurado aos supercomputadores: Fortran moderno na prática (e no Python)** foi apresentada no dia 26/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Do cartão perfurado aos supercomputadores: Fortran moderno na prática (e no Python)
-Apresentada por: **Melissa Weber Mendonça**
 
 ### Slides
+
 Acesse os slides: **[Do cartão perfurado aos supercomputadores: Fortran moderno na prática (e no Python)](./pybr2019-melissa-weber-mendonca-do-cartao-perfurado-aos-supercomputadores.pdf)**
+
 
 
 ### Sobre Palestra

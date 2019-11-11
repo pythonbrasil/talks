@@ -1,14 +1,17 @@
-# Python Brasil 2019 . Palestras
+<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+
+# Palestra: Desenhando com Python dentro do Navegador
+Apresentada por: **Bernardo Fontes**
 
 
 A palestra **Desenhando com Python dentro do Navegador** foi apresentada no dia 25/10/2019, durante a [Conferência Python Brasil 2019](http://2019.pythonbrasil.org.br).
 
 
-## Desenhando com Python dentro do Navegador
-Apresentada por: **Bernardo Fontes**
 
 ### Slides
-Acesse os slides: **[Desenhando com Python dentro do Navegador](./)**
+
+Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+
 
 
 ### Sobre Palestra
