@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: Otimizando sistemas em Python com Kibana, Elasticsearch e APM
 Apresentada por: **Bruno Gomes França**

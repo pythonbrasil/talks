@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: De dias para minutos, de minutos para milisegundos com SQLAlchemy
 Apresentada por: **Leonardo Rochael Almeida**

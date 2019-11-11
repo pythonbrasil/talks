@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: Código legado de machine learning? Como migramos para Python 3 sem sofrimento
 Apresentada por: **Eder Ferreira Martins**

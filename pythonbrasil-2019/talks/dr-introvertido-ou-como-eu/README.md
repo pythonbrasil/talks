@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: Dr. Introvertido ou: Como eu Aprendi a Parar de Me Preocupar e Amar Cultura de Time
 Apresentada por: **Betina Costa**

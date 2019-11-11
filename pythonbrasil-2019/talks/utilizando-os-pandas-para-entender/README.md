@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: Utilizando os pandas para entender os casos de violência contra a mulher na cidade do Recife.
 Apresentada por: **Maria Fernanda Souza Andrade**

@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: Título Por onde começar a estudar Ciência de Dados?
 Apresentada por: **Patricia Cucio Guisordi**

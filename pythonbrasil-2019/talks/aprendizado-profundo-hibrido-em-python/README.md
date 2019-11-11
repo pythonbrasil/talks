@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: Aprendizado Profundo Híbrido em Python para Análise de Sentimentos e Reconhecimento de Contexto
 Apresentada por: **Arthur Fortes da Costa**

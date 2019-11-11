@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: Escalabilidade e internacionalização com Django para milhões de acessos
 Apresentada por: **Lidiane de Souza Monteiro**

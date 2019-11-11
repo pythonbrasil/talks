@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: Do cartão perfurado aos supercomputadores: Fortran moderno na prática (e no Python)
 Apresentada por: **Melissa Weber Mendonça**

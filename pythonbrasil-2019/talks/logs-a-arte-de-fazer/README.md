@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN
 Apresentada por: **Ingrid Sena**

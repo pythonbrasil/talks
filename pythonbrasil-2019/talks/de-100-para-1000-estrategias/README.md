@@ -1,4 +1,4 @@
-<p align="center"><img src="../logo_python_brasil_2019-01.svg" width="200"></p>
+<p align="center"><img src="../../logo_python_brasil_2019-01.svg" width="200"></p>
 
 # Palestra: De 100 para 1000: estratégias para quem está começando a se preocupar com performance
 Apresentada por: **Filipe de Alencar Ximenes**
