@@ -12,7 +12,9 @@ Acesse os slides: **[Teclados Mecânicos - Conheça sua principal ferramenta de 
 
 
 ### Sobre Palestra
-Já se pegou com dores estranhas, desconforto ao digitar, mesmo com seu ambiente ergonomicamente correto? Já tentou trocar seu teclado? Qual escolher?\\n\\nNessa apresentação será contada uma breve história de como os teclados evoluíram, os tipos diferentes de teclado existentes no mercado (membrana, semi-mecânicos e mecânicos), a principal diferença entre eles, como escolher um teclado para o uso pessoal/trabalho e conselhos de como adquirir seu primeiro teclado mecânico.
+Já se pegou com dores estranhas, desconforto ao digitar, mesmo com seu ambiente ergonomicamente correto? Já tentou trocar seu teclado? Qual escolher?
+
+Nessa apresentação será contada uma breve história de como os teclados evoluíram, os tipos diferentes de teclado existentes no mercado (membrana, semi-mecânicos e mecânicos), a principal diferença entre eles, como escolher um teclado para o uso pessoal/trabalho e conselhos de como adquirir seu primeiro teclado mecânico.
 
 
 

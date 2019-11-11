@@ -12,7 +12,9 @@ Acesse os slides: **[Fato ou Fake? Combatendo desinformação com Aprendizagem d
 
 
 ### Sobre Palestra
-Devido à infraestrutura da Web existente e à popularidade das plataformas de mídias sociais, é fácil compartilhar informações de forma massiva atualmente. Embora esse cenário online traga benefícios para a sociedade, ele também favorece que grupos maliciosos propaguem desinformação (notícias falsas) na Web, causando danos que vão desde afetar a reputação de entidades públicas (empresas, celebridades) a interferir em processos políticos.\\n\\nNesta palestra, vamos aprender como detectar as famosas "Fake News" por meio de propriedades linguísticas (e.g., morfológicas, psicolinguísticas) presentes no conteúdo de notícias veiculadas na Web. Para tanto, serão exploradas as bibliotecas Scikit-Learn, NLTK, LIWC e TextStat.
+Devido à infraestrutura da Web existente e à popularidade das plataformas de mídias sociais, é fácil compartilhar informações de forma massiva atualmente. Embora esse cenário online traga benefícios para a sociedade, ele também favorece que grupos maliciosos propaguem desinformação (notícias falsas) na Web, causando danos que vão desde afetar a reputação de entidades públicas (empresas, celebridades) a interferir em processos políticos.
+
+Nesta palestra, vamos aprender como detectar as famosas "Fake News" por meio de propriedades linguísticas (e.g., morfológicas, psicolinguísticas) presentes no conteúdo de notícias veiculadas na Web. Para tanto, serão exploradas as bibliotecas Scikit-Learn, NLTK, LIWC e TextStat.
 
 
 

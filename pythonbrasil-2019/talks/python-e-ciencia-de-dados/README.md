@@ -12,7 +12,8 @@ Acesse os slides: **[Python e Ciência de Dados no Combate à Corrupção](./pyb
 
 
 ### Sobre Palestra
-Descreverei a atuação da área de Ciência de Dados da Controladoria Geral da União (CGU), o Observatório da Despesa Pública,  na criação de aplicações de Mineração de Dados para detecção de fraude e mau uso de recursos públicos. Como exemplo de aplicação, criamos um modelo utilizando redes neurais convolucionais para detecção de empresas de fachada a partir da análise de imagens da empresa. Outro modelo prevê o risco de um convênio resultar em rejeição da prestação de contas. Tudo com Python.\\nA ideia da palestra é apresentar o dia-a-dia de uma equipe de cientistas de dados no contexto governamental, detalhando os principais projetos desenvolvidos.
+Descreverei a atuação da área de Ciência de Dados da Controladoria Geral da União (CGU), o Observatório da Despesa Pública,  na criação de aplicações de Mineração de Dados para detecção de fraude e mau uso de recursos públicos. Como exemplo de aplicação, criamos um modelo utilizando redes neurais convolucionais para detecção de empresas de fachada a partir da análise de imagens da empresa. Outro modelo prevê o risco de um convênio resultar em rejeição da prestação de contas. Tudo com Python.
+A ideia da palestra é apresentar o dia-a-dia de uma equipe de cientistas de dados no contexto governamental, detalhando os principais projetos desenvolvidos.
 
 
 

@@ -12,7 +12,9 @@ Acesse os slides: **[Python, Tipos e Segurança](./pybr2019-felipe-videira-rodri
 
 
 ### Sobre Palestra
-O sistema de tipos dinâmico e implícito do Python permite ao programador prestar menos atenção à essa questão da linguagem em seu dia-a-dia do que em linguagens de tipos estáticos e explícitos. Porém, variáveis e seus tipos são partes fundamentais do design e do funcionamento de linguagens de programação e de softwares.\\n\\nNos últimos anos, Python tem ganho mais e mais ferramentas para sugerir e acompanhar tipos de variáveis ao longo do ciclo de vida de um programa. Nessa palestra irei explorar esse cenário e abordarei o papel que o sistema de tipos tem na segurança da informação.
+O sistema de tipos dinâmico e implícito do Python permite ao programador prestar menos atenção à essa questão da linguagem em seu dia-a-dia do que em linguagens de tipos estáticos e explícitos. Porém, variáveis e seus tipos são partes fundamentais do design e do funcionamento de linguagens de programação e de softwares.
+
+Nos últimos anos, Python tem ganho mais e mais ferramentas para sugerir e acompanhar tipos de variáveis ao longo do ciclo de vida de um programa. Nessa palestra irei explorar esse cenário e abordarei o papel que o sistema de tipos tem na segurança da informação.
 
 
 

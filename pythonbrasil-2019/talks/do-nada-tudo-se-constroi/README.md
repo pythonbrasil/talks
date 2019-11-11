@@ -12,7 +12,17 @@ Acesse os slides: **[Do nada, tudo se constrói: Sobre testes, TDD e pytest](./p
 
 
 ### Sobre Palestra
-Testes nos ajudam a construir softwares melhores.\\n\\nDesenvolvimento orientado a testes é uma técnica excelente para entregar softwares funcionais, soluções confiáveis e em evolução contínua.\\n\\nPytest nos ajuda a escrever testes melhores.\\n\\nNesta talk, teoria e prática são apresentadas e conduzidas passo a passo com os participantes.\\n\\nIniciando por um problema simples e um editor de textos vazio, uma solução é escrita. Simples perguntas e verificações são propostas e conceitos sobre testes são apresentados.\\n\\nPor sua simplicidade e poder, o framework pytest será utilizado para apresentar conceitos e recursos como fixtures, parametrização, plugins, tornando-se uma ferramenta essencial para a construção de um ambiente de desenvolvimento e ecossistema escalável de poucos a milhares de testes.
+Testes nos ajudam a construir softwares melhores.
+
+Desenvolvimento orientado a testes é uma técnica excelente para entregar softwares funcionais, soluções confiáveis e em evolução contínua.
+
+Pytest nos ajuda a escrever testes melhores.
+
+Nesta talk, teoria e prática são apresentadas e conduzidas passo a passo com os participantes.
+
+Iniciando por um problema simples e um editor de textos vazio, uma solução é escrita. Simples perguntas e verificações são propostas e conceitos sobre testes são apresentados.
+
+Por sua simplicidade e poder, o framework pytest será utilizado para apresentar conceitos e recursos como fixtures, parametrização, plugins, tornando-se uma ferramenta essencial para a construção de um ambiente de desenvolvimento e ecossistema escalável de poucos a milhares de testes.
 
 
 

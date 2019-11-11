@@ -12,7 +12,8 @@ Acesse os slides: **[Uma abordagem de Computação Quântica usando a ferramenta
 
 
 ### Sobre Palestra
-Essa palestra vai ser dado abordado um pouco de computação quântica e alguns conceitos básicos sobre esse novo paradigma de computação Além de mostrar as principais perspectivas dessa nova tecnologia para o futuro. \\nAlém disso vai ser abordado um pouco da ferramenta Quiskit em Python. Além de mostrar a nova arquitetura de linguagens quânticas em cima do framework.
+Essa palestra vai ser dado abordado um pouco de computação quântica e alguns conceitos básicos sobre esse novo paradigma de computação Além de mostrar as principais perspectivas dessa nova tecnologia para o futuro. 
+Além disso vai ser abordado um pouco da ferramenta Quiskit em Python. Além de mostrar a nova arquitetura de linguagens quânticas em cima do framework.
 
 
 

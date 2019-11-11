@@ -12,7 +12,11 @@ Acesse os slides: **[Fazendo seu chatbot do zero com Tensorflow](./)**
 
 
 ### Sobre Palestra
-Nesta palestra vou apresentar como criar um chatbot generativo utilizando Deep Learning e NLP, com Tensorflow.\\n\\nVou utilizar um dataset de falas de filmes e veremos como fazer o pré processamento textual para utilizar uma rede LSTM Dual Encoder. Diferente de um chatbot de recuperação (retrieval), os chatbots generativos não possuem um dataset de respostas prontas e quando recebem uma pergunta, geram a resposta palavra por palavra. Dai veremos evoluções do chatbot com diferentes arquiteturas de redes neurais e suas respectivas respostas.\\n\\nAo final da palestra apresentarei adaptações que podem ser feitas para utilizar essa arquitetura com um dataset em português.
+Nesta palestra vou apresentar como criar um chatbot generativo utilizando Deep Learning e NLP, com Tensorflow.
+
+Vou utilizar um dataset de falas de filmes e veremos como fazer o pré processamento textual para utilizar uma rede LSTM Dual Encoder. Diferente de um chatbot de recuperação (retrieval), os chatbots generativos não possuem um dataset de respostas prontas e quando recebem uma pergunta, geram a resposta palavra por palavra. Dai veremos evoluções do chatbot com diferentes arquiteturas de redes neurais e suas respectivas respostas.
+
+Ao final da palestra apresentarei adaptações que podem ser feitas para utilizar essa arquitetura com um dataset em português.
 
 
 
