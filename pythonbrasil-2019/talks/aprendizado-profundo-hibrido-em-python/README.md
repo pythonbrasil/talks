@@ -10,7 +10,7 @@ A palestra **Aprendizado Profundo Híbrido em Python para Análise de Sentimento
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Aprendizado Profundo Híbrido em Python para Análise de Sentimentos e Reconhecimento de Contexto](./pybr2019-arthur-fortes-da-aprendizado-profundo-hibrido-em-python.pdf)**
 
 
 

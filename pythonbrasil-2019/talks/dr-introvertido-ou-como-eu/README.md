@@ -10,7 +10,7 @@ A palestra **Dr. Introvertido ou: Como eu Aprendi a Parar de Me Preocupar e Amar
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Dr. Introvertido ou: Como eu Aprendi a Parar de Me Preocupar e Amar Cultura de Time](./pybr2019-betina-costa-dr-introvertido-ou-como-eu.pdf)**
 
 
 

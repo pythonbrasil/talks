@@ -10,7 +10,7 @@ A palestra **Un algoritmo de Mallado Poliedral en 3 Dimensiones para Aproximar S
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Un algoritmo de Mallado Poliedral en 3 Dimensiones para Aproximar Soluciones a Problemas Físicos Singulares](./pybr2019-alexis-jawtuschenko-un-algoritmo-de-mallado-poliedral.pdf)**
 
 
 

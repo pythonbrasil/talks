@@ -10,7 +10,7 @@ A palestra **Aprendendo e ensinando Python para “programadores alternativos”
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Aprendendo e ensinando Python para “programadores alternativos”](./pybr2019-alexandre-villares-aprendendo-e-ensinando-python-para.pdf)**
 
 
 

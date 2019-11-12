@@ -10,7 +10,7 @@ A palestra **Black Mirror ao contrário - Uso de tecnologia (e dados) para o bem
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Black Mirror ao contrário - Uso de tecnologia (e dados) para o bem](./pybr2019-bruno-evangelista-black-mirror-ao-contrario-uso.pptx)**
 
 
 
