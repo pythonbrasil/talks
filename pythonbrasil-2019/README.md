@@ -186,13 +186,13 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Python on Kubernetes: Garantindo escalabilidade em aplicações produtivas**](./talks/python-on-kubernetes-garantindo-escalabilidade/) - Bianca Rosa 
 
 
-- [**Teclados Mecânicos - Conheça sua principal ferramenta de trabalho**](./talks/teclados-mecanicos-conheca-sua-principal/) - André Girol 
+- [**Teclados Mecânicos - Conheça sua principal ferramenta de trabalho**](./talks/teclados-mecanicos-conheca-sua-principal/) - André Girol [slides](./talks/teclados-mecanicos-conheca-sua-principal/pybr2019-andre-girol-teclados-mecanicos-conheca-sua-principal.pdf)
 
 
 - [**Do nada, tudo se constrói: Sobre testes, TDD e pytest**](./talks/do-nada-tudo-se-constroi/) - André Pastore [slides](./talks/do-nada-tudo-se-constroi/pybr2019-andre-pastore-do-nada-tudo-se-constroi.pdf)
 
 
-[//] sem slides
+<!-- sem slides
 [//] [**Música com Python e FoxDot**](./talks/musica-com-python-e-foxdot/) - Diego Moreira Guimarães
 [//] [**Programando um Emulador de trás pra frente**](./talks/programando-um-emulador-de-tras/) - Henrique Bastos
 [//] [**Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN**](./talks/logs-a-arte-de-fazer/) - Ingrid Sena
@@ -202,4 +202,5 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 [//] [**Como ensinar Python?**](./talks/como-ensinar-python/) - Yan Orestes
 [//] [**Fazendo as pazes com projetos legados**](./talks/fazendo-as-pazes-com-projetos/) - Matheus Hernandes
 [//] [**Python on Kubernetes: Garantindo escalabilidade em aplicações produtivas**](./talks/python-on-kubernetes-garantindo-escalabilidade/) - Bianca Rosa
-[//] [**Teclados Mecânicos - Conheça sua principal ferramenta de trabalho**](./talks/teclados-mecanicos-conheca-sua-principal/) - André Girol
+
+-->
