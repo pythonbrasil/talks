@@ -10,7 +10,7 @@ A palestra **Utilizando os pandas para entender os casos de violência contra a 
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Utilizando os pandas para entender os casos de violência contra a mulher na cidade do Recife.](https://slides.com/fernandasouza/pybr2019#/)**
 
 
 

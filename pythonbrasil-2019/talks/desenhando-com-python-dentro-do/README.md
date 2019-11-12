@@ -10,7 +10,7 @@ A palestra **Desenhando com Python dentro do Navegador** foi apresentada no dia 
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Desenhando com Python dentro do Navegador](https://berinhard.github.io/talks/2019_pybr/index.html)**
 
 
 

@@ -10,7 +10,7 @@ A palestra **Descanso: não um luxo, mas uma necessidade** foi apresentada no di
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Descanso: não um luxo, mas uma necessidade](https://speakerdeck.com/fmasanori/descanso-nao-um-luxo-mas-uma-necessidade)**
 
 
 

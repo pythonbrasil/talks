@@ -10,7 +10,7 @@ A palestra **Construindo plugins para o Pytest** foi apresentada no dia 25/10/20
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Construindo plugins para o Pytest](https://docs.google.com/presentation/d/1sV1oKM4wve_kg1oBSf8xE1Nz4Ywku_l6cMsh9BNnlKs/edit?usp=sharing)**
 
 
 

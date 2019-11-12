@@ -10,7 +10,7 @@ A palestra **Em nome das Boas Práticas de Código da Casa Django, Rainha do Bac
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Em nome das Boas Práticas de Código da Casa Django, Rainha do Backend, eu te sentencio a testar - A Game of Tests](https://docs.google.com/presentation/d/1eCNAPqqDizU9IuZ5hIs8nBQyT2Q_UdrImcRZDnK6wTQ/edit#slide=id.g3ed3e07691_2_196)**
 
 
 

@@ -10,7 +10,7 @@ A palestra **Código à prova de raios cósmicos** foi apresentada no dia 26/10/
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Código à prova de raios cósmicos](https://drive.google.com/open?id=1HYwIqE8W3NgREnD7vCyfdgMfIZ_eEQto)**
 
 
 

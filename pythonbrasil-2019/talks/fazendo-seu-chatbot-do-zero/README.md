@@ -10,7 +10,7 @@ A palestra **Fazendo seu chatbot do zero com Tensorflow** foi apresentada no dia
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Fazendo seu chatbot do zero com Tensorflow](https://drive.google.com/open?id=13EFIaIrkhfDlXmW2076dPiH1Y1bRSetW9iRldk4LuJY)**
 
 
 
