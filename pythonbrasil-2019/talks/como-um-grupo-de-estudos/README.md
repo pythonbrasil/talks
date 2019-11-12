@@ -10,7 +10,7 @@ A palestra **Como um grupo de estudos estimula a troca de saber dentro da comuni
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Como um grupo de estudos estimula a troca de saber dentro da comunidade PyLadies São Paulo](https://drive.google.com/open?id=10iCp04b-TBXYW1IK8E1nAqvzWPyWUdCm)**
 
 
 

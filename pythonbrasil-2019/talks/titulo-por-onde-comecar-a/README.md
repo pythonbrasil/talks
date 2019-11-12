@@ -10,7 +10,7 @@ A palestra **Título Por onde começar a estudar Ciência de Dados?** foi aprese
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Título Por onde começar a estudar Ciência de Dados?](https://drive.google.com/open?id=12qhNSYZq-1Yr5454JBesNRzzrkUGJbfm)**
 
 
 

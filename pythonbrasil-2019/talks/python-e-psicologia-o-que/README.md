@@ -10,7 +10,7 @@ A palestra **Python e Psicologia o que uma tem a oferecer a outra: a resposta pa
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Python e Psicologia o que uma tem a oferecer a outra: a resposta para a pergunta - Por que Python atravessou a rua?](./pybr2019-nelson-de-campos-python-e-psicologia-o-que.pdf)**
 
 
 

@@ -10,7 +10,7 @@ A palestra **Python para Quants - Como Python pode ajudar na análise de investi
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Python para Quants - Como Python pode ajudar na análise de investimentos](./pybr2019-rafael-calixto-python-para-quants-como-python.pdf)**
 
 
 

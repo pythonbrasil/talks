@@ -10,7 +10,7 @@ A palestra **Construindo plugins para o Pytest** foi apresentada no dia 25/10/20
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Construindo plugins para o Pytest](./pybr2019-rafael-henrique-da-construindo-plugins-para-o-pytest.pdf)**
 
 
 

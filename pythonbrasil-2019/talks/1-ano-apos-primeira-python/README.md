@@ -10,7 +10,7 @@ A palestra **1 ano após primeira Python Brasil** foi apresentada no dia 25/10/2
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[1 ano após primeira Python Brasil](https://slides.com/tyronedamasceno/bazuca-ou-canivete-6/fullscreen)**
 
 
 

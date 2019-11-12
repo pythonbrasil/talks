@@ -10,7 +10,7 @@ A palestra **Como montar um “App” de clima/tempo com Python e dados abertos*
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Como montar um “App” de clima/tempo com Python e dados abertos](https://ocefpaf.github.io/2019-10-27-PyBr-talk/#/title-slide)**
 
 
 

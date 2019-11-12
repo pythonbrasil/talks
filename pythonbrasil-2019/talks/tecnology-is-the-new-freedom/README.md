@@ -10,7 +10,7 @@ A palestra **Tecnology is the new freedom** foi apresentada no dia 25/10/2019, d
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Tecnology is the new freedom](./pybr2019-anicely-santos-tecnology-is-the-new-freedom.pdf)**
 
 
 

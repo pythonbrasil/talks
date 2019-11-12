@@ -10,7 +10,7 @@ A palestra **Desvendando a caixa preta do MongoDB** foi apresentada no dia 27/10
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Desvendando a caixa preta do MongoDB](https://drive.google.com/open?id=1WJV4UVSnuwdFxTkLMEFDuyEriE_m9E3N)**
 
 
 

@@ -10,7 +10,7 @@ A palestra **De 100 para 1000: estratégias para quem está começando a se preo
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[De 100 para 1000: estratégias para quem está começando a se preocupar com performance](https://docs.google.com/presentation/d/1dSTUiA_yds6TATlYujBvdxdC93FR63AtMIOmMNjZEhQ/edit?usp=sharing)**
 
 
 
