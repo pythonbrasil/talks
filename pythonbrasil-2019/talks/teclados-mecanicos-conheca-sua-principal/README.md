@@ -10,7 +10,7 @@ A palestra **Teclados Mecânicos - Conheça sua principal ferramenta de trabalho
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Teclados Mecânicos - Conheça sua principal ferramenta de trabalho](./pybr2019-andre-girol-teclados-mecanicos-conheca-sua-principal.pdf)**
 
 
 
