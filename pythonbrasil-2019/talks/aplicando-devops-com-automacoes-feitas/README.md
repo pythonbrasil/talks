@@ -10,7 +10,7 @@ A palestra **Aplicando DevOps com Automações feitas em Python e Flask** foi ap
 
 ### Slides
 
-Acesse os slides: **[Aplicando DevOps com Automações feitas em Python e Flask](./pybr2019-william-lino-oliveira-aplicando-devops-com-automacoes-feitas.pptx)**
+Acesse os slides: **[Aplicando DevOps com Automações feitas em Python e Flask](./pybr2019-william-lino-oliveira-aplicando-devops-com-automacoes-feitas.pdf)**
 
 
 

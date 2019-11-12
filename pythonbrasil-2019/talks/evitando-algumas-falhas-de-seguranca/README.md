@@ -10,7 +10,7 @@ A palestra **Evitando algumas falhas de segurança em aplicações web com Pytho
 
 ### Slides
 
-Acesse os slides: **[Evitando algumas falhas de segurança em aplicações web com Python](./pybr2019-mariana-de-albuquerque-evitando-algumas-falhas-de-seguranca.pptx)**
+Acesse os slides: **[Evitando algumas falhas de segurança em aplicações web com Python](./pybr2019-mariana-de-albuquerque-evitando-algumas-falhas-de-seguranca.pdf)**
 
 
 

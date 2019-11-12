@@ -10,7 +10,7 @@ A palestra **Docker: melhorando sua vida como desenvolvedor Python** foi apresen
 
 ### Slides
 
-Acesse os slides: **[Docker: melhorando sua vida como desenvolvedor Python](https://docs.google.com/presentation/d/1ScZz10zc3pThoTPKB4BVEhZz8k-HQXn2i_YB03PkQlQ/edit?usp=sharing)**
+Acesse os slides: **[Docker: melhorando sua vida como desenvolvedor Python](./pybr2019-gustavo-carvalho-docker-melhorando-sua-vida-como.pdf)**
 
 
 

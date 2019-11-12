@@ -30,10 +30,10 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Dr. Introvertido ou: Como eu Aprendi a Parar de Me Preocupar e Amar Cultura de Time**](./talks/dr-introvertido-ou-como-eu/) - Betina Costa [slides](./talks/dr-introvertido-ou-como-eu/pybr2019-betina-costa-dr-introvertido-ou-como-eu.pdf)
 
 
-- [**Black Mirror ao contrário - Uso de tecnologia (e dados) para o bem**](./talks/black-mirror-ao-contrario-uso/) - Bruno Evangelista [slides](./talks/black-mirror-ao-contrario-uso/pybr2019-bruno-evangelista-black-mirror-ao-contrario-uso.pptx)
+- [**Black Mirror ao contrário - Uso de tecnologia (e dados) para o bem**](./talks/black-mirror-ao-contrario-uso/) - Bruno Evangelista [slides](./talks/black-mirror-ao-contrario-uso/pybr2019-bruno-evangelista-black-mirror-ao-contrario-uso.pdf)
 
 
-- [**Otimizando sistemas em Python com Kibana, Elasticsearch e APM**](./talks/otimizando-sistemas-em-python-com/) - Bruno Gomes França [slides](./talks/otimizando-sistemas-em-python-com/pybr2019-bruno-gomes-franca-otimizando-sistemas-em-python-com.pptx)
+- [**Otimizando sistemas em Python com Kibana, Elasticsearch e APM**](./talks/otimizando-sistemas-em-python-com/) - Bruno Gomes França [slides](./talks/otimizando-sistemas-em-python-com/pybr2019-bruno-gomes-franca-otimizando-sistemas-em-python-com.pdf)
 
 
 - [**Controle de Backups e rotinas com Django e Fabric**](./talks/controle-de-backups-e-rotinas/) - Camilla Martins [slides](https://docs.google.com/presentation/d/1JwJyaVXWvQ3pbXixEcnC2VQVgySLwtdoX0uHKvpAaxQ/edit?usp=sharing)
@@ -48,7 +48,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Música com Python e FoxDot**](./talks/musica-com-python-e-foxdot/) - Diego Moreira Guimarães 
 
 
-- [**Código legado de machine learning? Como migramos para Python 3 sem sofrimento**](./talks/codigo-legado-de-machine-learning/) - Eder Ferreira Martins [slides](http://docs.google.com/presentation/d/1EpMwYW9SiQOHolIeyDYZERG6o_qD_pNzgopa5FVPTCc)
+- [**Código legado de machine learning? Como migramos para Python 3 sem sofrimento**](./talks/codigo-legado-de-machine-learning/) - Eder Ferreira Martins [slides](./talks/codigo-legado-de-machine-learning/pybr2019-eder-ferreira-martins-codigo-legado-de-machine-learning.pdf)
 
 
 - [**Acelerando Aplicações Científicas com Cython**](./talks/acelerando-aplicacoes-cientificas-com-cython/) - Emanuel Lima [slides](./talks/acelerando-aplicacoes-cientificas-com-cython/pybr2019-emanuel-lima-acelerando-aplicacoes-cientificas-com-cython.pdf)
@@ -72,7 +72,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**A anatomia do code review**](./talks/a-anatomia-do-code-review/) - Guilherme Garnier [slides](./talks/a-anatomia-do-code-review/pybr2019-guilherme-garnier-a-anatomia-do-code-review.pdf)
 
 
-- [**Docker: melhorando sua vida como desenvolvedor Python**](./talks/docker-melhorando-sua-vida-como/) - Gustavo Carvalho [slides](https://docs.google.com/presentation/d/1ScZz10zc3pThoTPKB4BVEhZz8k-HQXn2i_YB03PkQlQ/edit?usp=sharing)
+- [**Docker: melhorando sua vida como desenvolvedor Python**](./talks/docker-melhorando-sua-vida-como/) - Gustavo Carvalho [slides](./talks/docker-melhorando-sua-vida-como/pybr2019-gustavo-carvalho-docker-melhorando-sua-vida-como.pdf)
 
 
 - [**Programando um Emulador de trás pra frente**](./talks/programando-um-emulador-de-tras/) - Henrique Bastos 
@@ -108,7 +108,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Utilizando os pandas para entender os casos de violência contra a mulher na cidade do Recife.**](./talks/utilizando-os-pandas-para-entender/) - Maria Fernanda Souza Andrade [slides](https://slides.com/fernandasouza/pybr2019#/)
 
 
-- [**Evitando algumas falhas de segurança em aplicações web com Python**](./talks/evitando-algumas-falhas-de-seguranca/) - Mariana de Albuquerque Campos [slides](./talks/evitando-algumas-falhas-de-seguranca/pybr2019-mariana-de-albuquerque-evitando-algumas-falhas-de-seguranca.pptx)
+- [**Evitando algumas falhas de segurança em aplicações web com Python**](./talks/evitando-algumas-falhas-de-seguranca/) - Mariana de Albuquerque Campos [slides](./talks/evitando-algumas-falhas-de-seguranca/pybr2019-mariana-de-albuquerque-evitando-algumas-falhas-de-seguranca.pdf)
 
 
 - [**Do cartão perfurado aos supercomputadores: Fortran moderno na prática (e no Python)**](./talks/do-cartao-perfurado-aos-supercomputadores/) - Melissa Weber Mendonça [slides](./talks/do-cartao-perfurado-aos-supercomputadores/pybr2019-melissa-weber-mendonca-do-cartao-perfurado-aos-supercomputadores.pdf)
@@ -126,10 +126,10 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Seis anos de PyLadies Brasil: impactos, perspectivas e desafios**](./talks/seis-anos-de-pyladies-brasil/) - PyLadies Brasil [slides](./talks/seis-anos-de-pyladies-brasil/pybr2019-pyladies-brasil-seis-anos-de-pyladies-brasil.pdf)
 
 
-- [**Python para Quants - Como Python pode ajudar na análise de investimentos**](./talks/python-para-quants-como-python/) - Rafael Calixto [slides](https://drive.google.com/file/d/1vOKRpsNnEZvWtTv-fuzJzFpEBk4W_9tN/view)
+- [**Python para Quants - Como Python pode ajudar na análise de investimentos**](./talks/python-para-quants-como-python/) - Rafael Calixto [slides](./talks/python-para-quants-como-python/pybr2019-rafael-calixto-python-para-quants-como-python.pdf)
 
 
-- [**Construindo plugins para o Pytest**](./talks/construindo-plugins-para-o-pytest/) - Rafael Henrique da Silva Correia [slides](https://docs.google.com/presentation/d/1sV1oKM4wve_kg1oBSf8xE1Nz4Ywku_l6cMsh9BNnlKs/edit?usp=sharing)
+- [**Construindo plugins para o Pytest**](./talks/construindo-plugins-para-o-pytest/) - Rafael Henrique da Silva Correia [slides](./talks/construindo-plugins-para-o-pytest/pybr2019-rafael-henrique-da-construindo-plugins-para-o-pytest.pdf)
 
 
 - [**[algoritmo.info for algoritmo in algoritmos.sort()]**](./talks/algoritmoinfo-for-algoritmo-in-algoritmossort/) - Rebeca Sarai [slides](./talks/algoritmoinfo-for-algoritmo-in-algoritmossort/pybr2019-rebeca-sarai-algoritmoinfo-for-algoritmo-in-algoritmossort.pdf)
@@ -138,7 +138,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Continuous Documentation: se não está documentado, seu projeto não existe**](./talks/continuous-documentation-se-nao-esta/) - Renne Rocha [slides](./talks/continuous-documentation-se-nao-esta/pybr2019-renne-rocha-continuous-documentation-se-nao-esta.pdf)
 
 
-- [**Microsserviços prontos para produção**](./talks/microsservicos-prontos-para-producao/) - Rodrigo Mendonça [slides](./talks/microsservicos-prontos-para-producao/pybr2019-rodrigo-mendonca-microsservicos-prontos-para-producao.pptx)
+- [**Microsserviços prontos para produção**](./talks/microsservicos-prontos-para-producao/) - Rodrigo Mendonça [slides](https://drive.google.com/open?id=1D-Um4jk6co9EaODpaEGy6cOczCcP_IZ_)
 
 
 - [**Generating Nintendo Music Over the Phone in Python with Magenta**](./talks/generating-nintendo-music-over-the/) - Samuel Agnew 
@@ -150,7 +150,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**1 ano após primeira Python Brasil**](./talks/1-ano-apos-primeira-python/) - Tyrone Macedo Damasceno [slides](https://slides.com/tyronedamasceno/bazuca-ou-canivete-6/fullscreen)
 
 
-- [**Aplicando DevOps com Automações feitas em Python e Flask**](./talks/aplicando-devops-com-automacoes-feitas/) - William Lino Oliveira [slides](./talks/aplicando-devops-com-automacoes-feitas/pybr2019-william-lino-oliveira-aplicando-devops-com-automacoes-feitas.pptx)
+- [**Aplicando DevOps com Automações feitas em Python e Flask**](./talks/aplicando-devops-com-automacoes-feitas/) - William Lino Oliveira [slides](./talks/aplicando-devops-com-automacoes-feitas/pybr2019-william-lino-oliveira-aplicando-devops-com-automacoes-feitas.pdf)
 
 
 - [**Como ensinar Python?**](./talks/como-ensinar-python/) - Yan Orestes 

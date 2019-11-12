@@ -10,7 +10,7 @@ A palestra **Código legado de machine learning? Como migramos para Python 3 sem
 
 ### Slides
 
-Acesse os slides: **[Código legado de machine learning? Como migramos para Python 3 sem sofrimento](http://docs.google.com/presentation/d/1EpMwYW9SiQOHolIeyDYZERG6o_qD_pNzgopa5FVPTCc)**
+Acesse os slides: **[Código legado de machine learning? Como migramos para Python 3 sem sofrimento](./pybr2019-eder-ferreira-martins-codigo-legado-de-machine-learning.pdf)**
 
 
 

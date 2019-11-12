@@ -10,7 +10,7 @@ A palestra **Microsserviços prontos para produção** foi apresentada no dia 27
 
 ### Slides
 
-Acesse os slides: **[Microsserviços prontos para produção](./pybr2019-rodrigo-mendonca-microsservicos-prontos-para-producao.pptx)**
+Acesse os slides: **[Microsserviços prontos para produção](https://drive.google.com/open?id=1D-Um4jk6co9EaODpaEGy6cOczCcP_IZ_)**
 
 
 

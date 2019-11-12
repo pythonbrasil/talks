@@ -10,7 +10,7 @@ A palestra **Otimizando sistemas em Python com Kibana, Elasticsearch e APM** foi
 
 ### Slides
 
-Acesse os slides: **[Otimizando sistemas em Python com Kibana, Elasticsearch e APM](./pybr2019-bruno-gomes-franca-otimizando-sistemas-em-python-com.pptx)**
+Acesse os slides: **[Otimizando sistemas em Python com Kibana, Elasticsearch e APM](./pybr2019-bruno-gomes-franca-otimizando-sistemas-em-python-com.pdf)**
 
 
 
