@@ -10,7 +10,7 @@ A palestra **Python on Kubernetes: Garantindo escalabilidade em aplicações pro
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Python on Kubernetes: Garantindo escalabilidade em aplicações produtivas](https://slides.com/biancarosa__/python-on-kubernetes)**
 
 
 

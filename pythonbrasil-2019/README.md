@@ -183,7 +183,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Uma abordagem de Computação Quântica usando a ferramenta Qiskit em Python**](./talks/uma-abordagem-de-computacao-quantica/) - Daniele Nazaré Tavares [slides](./talks/uma-abordagem-de-computacao-quantica/pybr2019-daniele-nazare-tavares-uma-abordagem-de-computacao-quantica.pdf)
 
 
-- [**Python on Kubernetes: Garantindo escalabilidade em aplicações produtivas**](./talks/python-on-kubernetes-garantindo-escalabilidade/) - Bianca Rosa 
+- [**Python on Kubernetes: Garantindo escalabilidade em aplicações produtivas**](./talks/python-on-kubernetes-garantindo-escalabilidade/) - Bianca Rosa [slides](https://slides.com/biancarosa__/python-on-kubernetes)
 
 
 - [**Teclados Mecânicos - Conheça sua principal ferramenta de trabalho**](./talks/teclados-mecanicos-conheca-sua-principal/) - André Girol [slides](./talks/teclados-mecanicos-conheca-sua-principal/pybr2019-andre-girol-teclados-mecanicos-conheca-sua-principal.pdf)
@@ -201,6 +201,5 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 [//] [**Generating Nintendo Music Over the Phone in Python with Magenta**](./talks/generating-nintendo-music-over-the/) - Samuel Agnew
 [//] [**Como ensinar Python?**](./talks/como-ensinar-python/) - Yan Orestes
 [//] [**Fazendo as pazes com projetos legados**](./talks/fazendo-as-pazes-com-projetos/) - Matheus Hernandes
-[//] [**Python on Kubernetes: Garantindo escalabilidade em aplicações produtivas**](./talks/python-on-kubernetes-garantindo-escalabilidade/) - Bianca Rosa
 
 -->
