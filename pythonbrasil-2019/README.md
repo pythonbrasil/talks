@@ -153,9 +153,6 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Aplicando DevOps com Automações feitas em Python e Flask**](./talks/aplicando-devops-com-automacoes-feitas/) - William Lino Oliveira [slides](./talks/aplicando-devops-com-automacoes-feitas/pybr2019-william-lino-oliveira-aplicando-devops-com-automacoes-feitas.pdf)
 
 
-- [**Como ensinar Python?**](./talks/como-ensinar-python/) - Yan Orestes 
-
-
 - [**Título Por onde começar a estudar Ciência de Dados?**](./talks/titulo-por-onde-comecar-a/) - Patricia Cucio Guisordi [slides](https://drive.google.com/open?id=12qhNSYZq-1Yr5454JBesNRzzrkUGJbfm)
 
 
@@ -163,9 +160,6 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 
 
 - [**Como um grupo de estudos estimula a troca de saber dentro da comunidade PyLadies São Paulo**](./talks/como-um-grupo-de-estudos/) - Grupo de Estudos em Data Science [slides](https://drive.google.com/open?id=10iCp04b-TBXYW1IK8E1nAqvzWPyWUdCm)
-
-
-- [**Fazendo as pazes com projetos legados**](./talks/fazendo-as-pazes-com-projetos/) - Matheus Hernandes 
 
 
 - [**Desenhando com Python dentro do Navegador**](./talks/desenhando-com-python-dentro-do/) - Bernardo Fontes [slides](https://berinhard.github.io/talks/2019_pybr/index.html)
@@ -183,7 +177,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Uma abordagem de Computação Quântica usando a ferramenta Qiskit em Python**](./talks/uma-abordagem-de-computacao-quantica/) - Daniele Nazaré Tavares [slides](./talks/uma-abordagem-de-computacao-quantica/pybr2019-daniele-nazare-tavares-uma-abordagem-de-computacao-quantica.pdf)
 
 
-- [**Python on Kubernetes: Garantindo escalabilidade em aplicações produtivas**](./talks/python-on-kubernetes-garantindo-escalabilidade/) - Bianca Rosa 
+- [**Python on Kubernetes: Garantindo escalabilidade em aplicações produtivas**](./talks/python-on-kubernetes-garantindo-escalabilidade/) - Bianca Rosa [slides](https://slides.com/biancarosa__/python-on-kubernetes)
 
 
 - [**Teclados Mecânicos - Conheça sua principal ferramenta de trabalho**](./talks/teclados-mecanicos-conheca-sua-principal/) - André Girol [slides](./talks/teclados-mecanicos-conheca-sua-principal/pybr2019-andre-girol-teclados-mecanicos-conheca-sua-principal.pdf)
@@ -199,8 +193,5 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 [//] [**Saúde mental e o mercado de tecnologia, vamos falar sobre?**](./talks/saude-mental-e-o-mercado/) - Leonardo Morales Belluzzi
 [//] [**De dias para minutos, de minutos para milisegundos com SQLAlchemy**](./talks/de-dias-para-minutos-de/) - Leonardo Rochael Almeida
 [//] [**Generating Nintendo Music Over the Phone in Python with Magenta**](./talks/generating-nintendo-music-over-the/) - Samuel Agnew
-[//] [**Como ensinar Python?**](./talks/como-ensinar-python/) - Yan Orestes
-[//] [**Fazendo as pazes com projetos legados**](./talks/fazendo-as-pazes-com-projetos/) - Matheus Hernandes
-[//] [**Python on Kubernetes: Garantindo escalabilidade em aplicações produtivas**](./talks/python-on-kubernetes-garantindo-escalabilidade/) - Bianca Rosa
 
 -->
