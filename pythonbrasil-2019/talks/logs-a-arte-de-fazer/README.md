@@ -10,7 +10,7 @@ A palestra **Logs: A arte de fazer o software contar sua história - Estudo de c
 
 ### Slides
 
-Sem slides disponíveis. Você pode ajudar a publicá-los aqui?
+Acesse os slides: **[Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN](https://github.com/senaingrid/talks-and-workshops/tree/master/logs_pythonbr_2019/ptbr)**
 
 
 
