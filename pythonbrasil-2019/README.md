@@ -78,7 +78,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 - [**Programando um Emulador de trás pra frente**](./talks/programando-um-emulador-de-tras/) - Henrique Bastos 
 
 
-- [**Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN**](./talks/logs-a-arte-de-fazer/) - Ingrid Sena 
+- [**Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN**](./talks/logs-a-arte-de-fazer/) - Ingrid Sena [slides](https://github.com/senaingrid/talks-and-workshops/tree/master/logs_pythonbr_2019/ptbr)
 
 
 - [**Migrações de dados sem downtimes! Truques e lições aprendidas com PostgreSQL na Olist**](./talks/migracoes-de-dados-sem-downtimes/) - Jéssica Pauli de Castro Bonson [slides](./talks/migracoes-de-dados-sem-downtimes/pybr2019-jessica-pauli-de-migracoes-de-dados-sem-downtimes.pdf)
@@ -189,7 +189,6 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2019 entre os dia
 <!-- sem slides
 [//] [**Música com Python e FoxDot**](./talks/musica-com-python-e-foxdot/) - Diego Moreira Guimarães
 [//] [**Programando um Emulador de trás pra frente**](./talks/programando-um-emulador-de-tras/) - Henrique Bastos
-[//] [**Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN**](./talks/logs-a-arte-de-fazer/) - Ingrid Sena
 [//] [**Saúde mental e o mercado de tecnologia, vamos falar sobre?**](./talks/saude-mental-e-o-mercado/) - Leonardo Morales Belluzzi
 [//] [**De dias para minutos, de minutos para milisegundos com SQLAlchemy**](./talks/de-dias-para-minutos-de/) - Leonardo Rochael Almeida
 [//] [**Generating Nintendo Music Over the Phone in Python with Magenta**](./talks/generating-nintendo-music-over-the/) - Samuel Agnew
