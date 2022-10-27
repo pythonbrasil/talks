@@ -1,5 +1,9 @@
 ## Slides e materiais das conferências Python pelo Brasil
 
+### [Python Brasil [22]](/pythonbrasil-22/README.md)
+- Manaus, AM
+- 17 a 23 de Outubro de 2022r
+- [2022.pythonbrasil.org.br](https://2022.pythonbrasil.org.br/)
 
 ### [Python Brasil 2019](/pythonbrasil-2019/README.md)
 - Ribeirão Preto, SP
