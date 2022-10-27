@@ -34,7 +34,7 @@ Slides e materiais dos Tutoriais e Palestras apresentadas na Python Brasil 2022 
 
 ### Sem slides
 
-[//] [**Programando em Python no contexto das Mudanças Ambientais**](./talks/tutoriais/programando-em-python-no-contexto-das-mudanças-ambientais/) - Thais Pereira de Medeiros
+[//] [**Programando em Python no contexto das Mudanças Ambientais**]<!--(./talks/tutoriais/programando-em-python-no-contexto-das-mudanças-ambientais/)--> - Thais Pereira de Medeiros
 
 <!-- incluir os demais  -->
 
@@ -43,7 +43,8 @@ Slides e materiais dos Tutoriais e Palestras apresentadas na Python Brasil 2022 
 ### Com slides 
 
 ### Dia 20
-<!-->
+
+<!--
 - [**Aprendizado Profundo Híbrido em Python para Análise de Sentimentos e Reconhecimento de Contexto**](./talks/aprendizado-profundo-hibrido-em-python/) - Arthur Fortes da Costa [slides](./talks/aprendizado-profundo-hibrido-em-python/pybr2019-arthur-fortes-da-aprendizado-profundo-hibrido-em-python.pdf)
 
 -->
@@ -58,7 +59,7 @@ Slides e materiais dos Tutoriais e Palestras apresentadas na Python Brasil 2022 
 ### Sem slides
 
 
-[//] [**As minhas 10 pybrs. Histórias e Aprendizados**](./talks/palestras/as-minhas-10-pybrs-historias-e-aprendizados/) - Mário Sérgio
+[//] [**As minhas 10 pybrs. Histórias e Aprendizados**]<!--(./talks/palestras/as-minhas-10-pybrs-historias-e-aprendizados/)--> - Mário Sérgio
 
 <!--
  preencher com as demais
