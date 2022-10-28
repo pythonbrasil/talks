@@ -7,7 +7,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2020 entre os dia
 
 ###  2 de novembro de 2020
 
-<!-- seguir o exemolo a seguir para adicionar os links de uma nova talk:
+<!-- seguir o exemplo a seguir para adicionar os links de uma nova talk:
 - [**Aprendendo e ensinando Python para “programadores alternativos”**](./talks/aprendendo-e-ensinando-python-para/) - Alexandre Villares [slides](./talks/aprendendo-e-ensinando-python-para/pybr2019-alexandre-villares-aprendendo-e-ensinando-python-para.pdf)
 --> 
 
