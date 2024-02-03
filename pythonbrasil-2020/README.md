@@ -1,3 +1,5 @@
+<p align="center"><img src="logo-pybr2020.svg" width="200"></p>
+
 # Atividades ministradas na [Python Brasil 2020](http://2020.pythonbrasil.org.br)
 
 Slides e materiais das Palestras apresentadas na Python Brasil 2020 entre os dias 2 e 6 de novembro de 2020, primeira edição do evento feito de maneira complemente online.
@@ -76,7 +78,7 @@ Slides e materiais das Palestras apresentadas na Python Brasil 2020 entre os dia
 
 - **Sub-Representação e Invisibilidade Feminina na STEM (Science, Technology, Engineering and Mathematics): uma análise de estereótipos, educação e plataformas de carreira** - Salete Silva Farias
 
-- **Ambientes Virtuais, o que são e para que servem?** - Maria Fernanda Souza Andrade
+- [**Ambientes Virtuais, o que são e para que servem?**](./talks/ambientes-virtuais-o-que-sao-e-para-que-servem/) - Maria Fernanda Souza Andrade [slides](./talks/ambientes-virtuais-o-que-sao-e-para-que-servem/ambiente-virtual-o-que-sao-e-para-que-servem.pdf)
 
 - **Análise Numérica com Python: O Poder da Linguagem que Conquistou o Coração de Cientistas e Engenheiros** - Lis Ramos Barreto de Almeida
 
